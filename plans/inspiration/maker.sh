@@ -1,13 +1,13 @@
 #!/bin/bash
 
 rm -rf *.aux *.log *.out
-rm -rf *.toc *.tex *.pdf
+rm -rf *.toc *.tex 
 rm email.txt
 
 pullResult=`git pull`
-statResult=`git status --porcelain`
+statResult=`git status --porcelain | grep -v "maker"`
 
-if [ "$statResult" = "nothing to commit (working directory clean)" ]; then
+if [ "$statResult" = "" ]; then
   if [ "$pullResult" = "Already up-to-date." ]; then
       echo "Nothing to do"
       exit 1
@@ -16,6 +16,9 @@ fi
 
 echo "Doing stuff"
 # we should check in the untracked files
+echo "PULL" $pullResult
+echo "STAT" $statResult
+#exit 1
 
 untracked=`git status --porcelain | grep "^??"  | sed -e 's/^?? //'`
 modified=`git status --porcelain | grep "^ M" | grep -v $0 | sed -e 's/^ M//'`
