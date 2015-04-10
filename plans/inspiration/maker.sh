@@ -17,15 +17,19 @@ fi
 echo "Doing stuff"
 # we should check in the untracked files
 
-untracked=`git status --porcelain | grep "^??" | sed -e 's/^?? //'`
-modified=`git status --porcelain | grep "^ M" | sed -e 's/^ M//'`
+untracked=`git status --porcelain | grep "^??"  | sed -e 's/^?? //'`
+modified=`git status --porcelain | grep "^ M" | grep -v $0 | sed -e 's/^ M//'`
 deleted=`git status --porcelain | grep "^D " | sed -e 's/^D //'`
 
 python pdfmaker.py
 rm -rf *.aux *.log *.out
 rm -rf *.toc *.tex
 
+untracked=`git status --porcelain | grep "^??"  | sed -e 's/^?? //'`
+modified=`git status --porcelain | grep "^ M" | grep -v $0 | sed -e 's/^ M//'`
+deleted=`git status --porcelain | grep "^D " | sed -e 's/^D //'`
 
+echo "New document generated with the following moderations \n" > email.txt
 
 echo "UNTRACKED: ADD"
 for l in $untracked ; do
@@ -49,7 +53,8 @@ done
 # and now we push the changes to the system
 git push > /dev/null
 
-EMAILMSG=`cat email.txt`
-echo $EMAILMSG | mutt -s "BuildInspirations" ken.mccullagh@s3group.com -a inspirations.pdf
+cat email.txt | mutt -s "BuildInspirations" ken.mccullagh@s3group.com -a inspirations.pdf
+
+
  
 
