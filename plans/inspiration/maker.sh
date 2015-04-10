@@ -47,7 +47,7 @@ for l in $deleted ; do
 done
 
 # and now we push the changes to the system
-git push
+git push > /dev/null
 
 EMAILMSG=`cat email.txt`
 echo $EMAILMSG
