@@ -50,5 +50,6 @@ done
 git push > /dev/null
 
 EMAILMSG=`cat email.txt`
-echo $EMAILMSG
+echo $EMAILMSG | mutt -s "BuildInspirations" ken.mccullagh@s3group.com -a inspirations.pdf
+ 
 
