@@ -9,7 +9,7 @@ statResult=`git status --porcelain | grep -v "maker"`
 
 if [ "$statResult" = "" ]; then
   if [ "$pullResult" = "Already up-to-date." ]; then
-      echo "Nothing to do today"  | mutt -s "BuildInspirations" ken.mccullagh@s3group.com
+      #echo "Nothing to do today"  | mutt -s "BuildInspirations" ken.mccullagh@s3group.com
       exit 1
   fi
 fi
