@@ -2,6 +2,7 @@
 
 rm -rf *.aux *.log *.out
 rm -rf *.toc *.tex *.pdf
+rm email.txt
 
 pullResult=`git pull`
 statResult=`git status --porcelain`
@@ -28,20 +29,20 @@ rm -rf *.toc *.tex
 
 echo "UNTRACKED: ADD"
 for l in $untracked ; do
-    echo $l >> email.txt
+    echo "ADDED $l \n" >> email.txt
     git add "../../$l"
     git commit -m "added file $l" ../../$l
 done
 
 echo "MODIFIED, COMMIT"
 for l in $modified ; do
-    echo $l >> email.txt
+    echo "MODIFIED $l \n" >> email.txt
     git commit -m "Auto commit of file $l" ../../$l
 done
 
 echo "DELETED, REMOVE"
 for l in $deleted ; do
-    echo $l >> email.txt
+    echo "REMOVED $l \n" >> email.txt
     git commit -m "DELETE FILE $l", ../../$l
 done
 
