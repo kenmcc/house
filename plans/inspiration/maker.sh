@@ -25,7 +25,7 @@ deleted=`git status --porcelain | grep "^D " | sed -e 's/^D //'`
 echo "UNTRACKED: ADD"
 for l in $untracked ; do
     echo $l
-    git add "$l"
+    git add "../../$l"
     git commit -m "added file $l" ../../$l
 done
 
