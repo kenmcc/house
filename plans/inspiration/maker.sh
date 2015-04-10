@@ -54,6 +54,7 @@ done
 git push > /dev/null
 
 cat email.txt | mutt -s "BuildInspirations" ken.mccullagh@s3group.com -a inspirations.pdf
+rm email.txt
 
 
  
