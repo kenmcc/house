@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.11.28)  27 APR 2015 12:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.11.28)  11 MAY 2015 10:31
 entering extended mode
  %&-line parsing enabled.
 **WindowsDrawings.tex
@@ -183,7 +183,37 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-<14-12-P007.pdf, id=3, page=1, 845.0471pt x 1195.01462pt>
+<14-12-P005.pdf, id=3, page=1, 845.0471pt x 1195.01462pt>
+File: 14-12-P005.pdf Graphic file (type pdf)
+
+<use 14-12-P005.pdf, page 1>
+File: 14-12-P005.pdf Graphic file (type pdf)
+ <use 14-12-P005.pdf, page 1>
+File: 14-12-P005.pdf Graphic file (type pdf)
+
+<use 14-12-P005.pdf, page 1>
+File: 14-12-P005.pdf Graphic file (type pdf)
+ <use 14-12-P005.pdf, page 1>
+File: 14-12-P005.pdf Graphic file (type pdf)
+
+<use 14-12-P005.pdf, page 1> [1
+
+ <./14-12-P005.pdf>]
+<14-12-P006.pdf, id=12, page=1, 845.0471pt x 1195.01462pt>
+File: 14-12-P006.pdf Graphic file (type pdf)
+
+<use 14-12-P006.pdf, page 1>
+File: 14-12-P006.pdf Graphic file (type pdf)
+ <use 14-12-P006.pdf, page 1>
+File: 14-12-P006.pdf Graphic file (type pdf)
+
+<use 14-12-P006.pdf, page 1>
+File: 14-12-P006.pdf Graphic file (type pdf)
+ <use 14-12-P006.pdf, page 1>
+File: 14-12-P006.pdf Graphic file (type pdf)
+
+<use 14-12-P006.pdf, page 1> [2 <./14-12-P006.pdf>]
+<14-12-P007.pdf, id=20, page=1, 845.0471pt x 1195.01462pt>
 File: 14-12-P007.pdf Graphic file (type pdf)
 
 <use 14-12-P007.pdf, page 1>
@@ -196,10 +226,8 @@ File: 14-12-P007.pdf Graphic file (type pdf)
  <use 14-12-P007.pdf, page 1>
 File: 14-12-P007.pdf Graphic file (type pdf)
 
-<use 14-12-P007.pdf, page 1> [1
-
- <./14-12-P007.pdf>]
-<14-12-P008.pdf, id=12, page=1, 845.0471pt x 1195.01462pt>
+<use 14-12-P007.pdf, page 1> [3 <./14-12-P007.pdf>]
+<14-12-P008.pdf, id=28, page=1, 845.0471pt x 1195.01462pt>
 File: 14-12-P008.pdf Graphic file (type pdf)
 
 <use 14-12-P008.pdf, page 1>
@@ -212,8 +240,8 @@ File: 14-12-P008.pdf Graphic file (type pdf)
  <use 14-12-P008.pdf, page 1>
 File: 14-12-P008.pdf Graphic file (type pdf)
 
-<use 14-12-P008.pdf, page 1> [2 <./14-12-P008.pdf>]
-<14-12-P011.pdf, id=20, page=1, 845.0471pt x 1195.01462pt>
+<use 14-12-P008.pdf, page 1> [4 <./14-12-P008.pdf>]
+<14-12-P011.pdf, id=36, page=1, 845.0471pt x 1195.01462pt>
 File: 14-12-P011.pdf Graphic file (type pdf)
 
 <use 14-12-P011.pdf, page 1>
@@ -226,19 +254,19 @@ File: 14-12-P011.pdf Graphic file (type pdf)
  <use 14-12-P011.pdf, page 1>
 File: 14-12-P011.pdf Graphic file (type pdf)
 
-<use 14-12-P011.pdf, page 1> [3 <./14-12-P011.pdf>] (./WindowsDrawings.aux) ) 
+<use 14-12-P011.pdf, page 1> [5 <./14-12-P011.pdf>] (./WindowsDrawings.aux) ) 
 Here is how much of TeX's memory you used:
- 2019 strings out of 495061
- 28487 string characters out of 1182620
+ 2031 strings out of 495061
+ 28699 string characters out of 1182620
  83395 words of memory out of 3000000
- 5213 multiletter control sequences out of 15000+50000
+ 5221 multiletter control sequences out of 15000+50000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  32i,16n,36p,248b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on WindowsDrawings.pdf (3 pages, 677785 bytes).
+Output written on WindowsDrawings.pdf (5 pages, 1220714 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
