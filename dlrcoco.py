@@ -6,6 +6,7 @@ import ConfigParser
 import smtplib
 from email.mime.text import MIMEText
 import logging
+import datetime
 logging.basicConfig(level=logging.DEBUG)
 
 def getNumFiles(url1, url2):
@@ -83,6 +84,11 @@ def compareWithExistingData(itemsToCheck, files, docs):
     config = ConfigParser.SafeConfigParser()
     config.read('planningstatus.txt')
     
+    if "Updated" not in config.sections():
+        config.add_section("Updated")
+    config.set("Updated", "Last Updated", datetime.datetime.now().replace(microsecond=0).isoformat())
+
+    
     for section in ["APP DETAILS", "NUM FILES", "DOCS"]:
         if section not in config.sections():
             config.add_section(section)
@@ -139,9 +145,8 @@ def compareWithExistingData(itemsToCheck, files, docs):
             changedDocs[i[0]] = "[{0}] => [{1}]".format(("unset"), i[1].strip())
         '''
         
-    if changes:
-        with open('planningstatus.txt', 'w') as configfile:
-            config.write(configfile)
+    with open('planningstatus.txt', 'w') as configfile:
+        config.write(configfile)
     return changes, changedFields, changedDocs
 
 
