@@ -1,21 +1,21 @@
 [APP DETAILS]
 registration date = 15-Apr-2015
-decision date = 
+decision date = 09-Jun-2015
 application type = Permission
 extension of time to = 
 main location = Clonlea Lodge, Ballinteer Road, Ballinteer, Dublin 16
 full description = 
-status = 
-status description = Registered applications
-decision = 
+status = Decision made
+status description = Decision made
+decision = REFUSE PERMISSION
 publicity start date = 10-Apr-2015
 publicity end date = 19-May-2015
 
 [NUM FILES]
-files = 4
+files = 11
 
 [DOCS]
 
 [Updated]
-last updated = 2015-05-14T16:10:03
+last updated = 2015-06-16T14:10:33
 
