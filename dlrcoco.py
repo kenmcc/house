@@ -7,21 +7,30 @@ import smtplib
 from email.mime.text import MIMEText
 import logging
 import datetime
+import sys
+import subprocess as ps
 logging.basicConfig(level=logging.DEBUG)
 
 def getNumFiles(url1, url2):
-    logging.debug("Getting Number and Info on Files")
+    logging.debug("Getting Number and Info on Files from " + url1  + "\n" + url2)
     cj = CookieJar()
     opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
     response = opener.open(url1)
     content = response.read()
     logging.debug("Back from open with {0} bytes".format(len(content)))
     
+    content = content.replace("&amp;", "&").replace("\r", "").replace("\t","").replace("\n","").replace("&nbsp;", "")
+    #print content
+    doctab = re.compile(r'\"/(Exe.*)\" sc')
+    #print "FOUND", doctab.search(content).groups()[0].split(" ")[0]
+    url2 = "http://dms.dlrcoco.ie/"+doctab.search(content).groups()[0].split(" ")[0]
     response = opener.open(url2)
     content = response.read()
     logging.debug("Back from open with {0} bytes".format(len(content)))
 
     content = content.replace("&amp;", "&").replace("\r", "").replace("\t","").replace("\n","").replace("&nbsp;", "")
+    #print content
+    
     
     #print content
     numFiles = re.compile(r"var NrOfFiles = (?P<files>[0-9]*);")
@@ -31,6 +40,7 @@ def getNumFiles(url1, url2):
     s = numFiles.search(content) 
     if s:
         files =  s.groups()[0]
+        #print files
         
     ind = tableRow.findall(content)
     if ind:
@@ -190,12 +200,15 @@ def emailMe(fields, changedDocs, error = False, decision=None):
     s.sendmail(me, [you], msg.as_string())
     s.quit()
 
+    import subprocess as ps
+    ps.call(["zenity", "--info", "--text", str(strToSend.replace("&","&amp;")), "--display=:0.0"])
 
 if __name__=="__main__":
-    
-    docUrl1 = "http://dms.dlrcoco.ie/Exe/ZyNET.exe?ZyAction=ZyActionS&User=ANONYMOUS&Password=anonymous&Client=planning&SearchBack=ZyActionL&SortMethod=h&SortMethod=-&MaximumDocuments=15&ImageQuality=r75g16%2Fr75g16%2Fx150y150g16%2Fi500&Display=hpfrw&DefSeekPage=f&Toc=&TocEntry=&TocRestrict=&QField=Ref_No^%22D15A/0254%22&UseQField=Ref_No&IntQFieldOp=1&ExtQFieldOp=1&SearchMethod=1&Time=&Index=Planning+Ext"
+                 
+    docUrl1 = "http://dms.dlrcoco.ie/Exe/ZyNET.exe?ZyAction=ZyActionS&User=ANONYMOUS&Password=anonymous&Client=planning&SearchBack=ZyActionL&SortMethod=h&SortMethod=-&MaximumDocuments=15&ImageQuality=r75g16%2Fr75g16%2Fx150y150g16%2Fi500&Display=hpfrw&DefSeekPage=f&Toc=&TocEntry=&TocRestrict=&QField=Ref_No%5E%22D15A/0254%22&UseQField=Ref_No&IntQFieldOp=1&ExtQFieldOp=1&SearchMethod=1&Time=&Index=Planning+Archive+1%7CPlanning+Archive+2%7CPlanning+Archive+3%7CPlanning+Ext%7CPlanning+Int%7CPlanning+External+B%7CPlanning+External+C%7CPlanning+External+D&FuzzyDegree=0&Query=&IntQFieldOp=1&ExtQFieldOp=1"
     docUrl2 = "http://dms.dlrcoco.ie//Exe/ZyNET.exe?ZyActionS|7=Search&Client=planning&Index=Planning%20Ext&Query=&ResultOffset=&Time=&EndTime=&SearchMethod=1&TocRestrict=&Toc=&TocEntry=&QField=Ref%5FNo%5E%22D15A%2F0254%22&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=Ref%5FNo&IntQFieldOp=1&ExtQFieldOp=1&XmlQuery=&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=15&FuzzyDegree=-1&ImageQuality=r75g16/r75g16/x150y150g16/i500&Display=hpfrw&DefSeekPage=f&MaximumPages=-1"
-    
+               
+
     AppUrl = "http://planning.dlrcoco.ie/swiftlg/apas/run/WPHAPPDETAIL.DisplayUrl?theApnID=D15A/0254&theTabNo=2"
 
     logging.debug("About to begin")
@@ -215,6 +228,6 @@ if __name__=="__main__":
                 
                 
         changes, fields, changedDocs = compareWithExistingData(info, Files, docs)
-        if changes or decision:
+        if changes:# or decision:
             emailMe(fields, changedDocs, False, decision)
 
