@@ -2,12 +2,16 @@ from os.path import *
 import sys
 import os
 import subprocess as ps
+
+excluded=["attic"]
+
 def dir_contents(path, filesOrFolders="Files"):
     contents = os.listdir(path)
     files,folders = [],[]
     for p in os.listdir(path):
-        if isdir(p): folders.append(p)
-        else: files.append(p)
+        if p not in excluded:
+            if isdir(p): folders.append(p)
+            else: files.append(p)
     
     if filesOrFolders=="Files":
         return files
@@ -56,6 +60,7 @@ def recurse(path, f, depth=0):
     folders = []
     contents = os.listdir(path)
     for p in contents:
+      if p.lower() not in excluded:
         if isdir(path+"/"+p):
             folders.append(path+"/"+p)
         else: 
