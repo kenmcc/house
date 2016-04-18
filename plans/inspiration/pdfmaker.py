@@ -88,7 +88,7 @@ def recurse(path, f, depth=0):
     for fa in sorted(folders, key=lambda s: s.lower()):
         sections = fa.split("/")
         f.write("\\clearpage \n")
-        f.write("\\"+"sub"*depth+"section{"+ sections[-1:][0].upper()+"}\n")
+        f.write("\\"+"sub"*depth+"section{"+ sections[-1:][0].upper().replace("ZZZ","")+"}\n")
         f.write("\\InputIfFileExists{"+fa+"/requirements}{}{} \n")
         
         recurse(fa, f, depth + 1)
