@@ -1,0 +1,136 @@
+\subsection{Measurements}
+\subsubsection{East Facing (Front of House)}
+\begin{itemize}
+\item D01 (Front Door) : 1500w x 2500h (think it might also need a panel beside it!)
+\item W01 (Sitting room): 2250w x 1825h
+\item W11 (Bedroom) : 1800w x 1400h
+\item W12 (Bathroom): 900w x 1400h
+\end{itemize}    
+    
+\subsubsection{South Facing}
+\begin{itemize}
+\item W06 (Dining Room) : 1740w x 1000h
+\item W07 (Kitchen) : 1125w x 1000h
+\item W08 (Playroom) : 2250w x 1000h
+\item W09 (Sitting Room) : 875w x 1000h
+\item W10 (Sitting Room) : 875w x 1000h
+\item W16 (Master Bedroom) : 1500w x 1245h
+\item W17 (Middle Bedroom) : 1500w x 1245h
+\end{itemize}
+
+\subsubsection{West Facing (back of house)}
+\begin{itemize}
+\item W05 (Dining) : 1200w x 2000h
+\item D03 (Patio) : 3280w x 2500h
+\item W14 (Ensuite) : 900w x 1400h
+\item W15 (Master Bedroom) : 1500w x 1400h    
+\end{itemize}
+
+\subsubsection{North Facing}
+\begin{itemize}
+\item W02 (Hall) : 675w x 2275h
+\item D02 (Utility) : 950w x 2500h
+\item W04 (Utility) : 850w x 2500h (Will this reduce available press/worktop space too much? 
+        Should we reduce the height and make it from waist high only?)
+\item W13 (Landing) : 675w x 1845h
+\end{itemize}
+
+\subsubsection{Rooflights}
+\begin{itemize}
+\item R01 (Dining Room) : 5000wx1400h
+\end{itemize}    
+
+\subsection {Bridies}
+\begin{itemize}
+\item W20 (Bathroom): 600w x1025h
+\item W21 (Kitchen): 900 diameter
+\item W22 (Dining): 3525w x 2025h
+\item W23D04W24 (Patio) : 3350w x 2025h
+\item R02 (Kitchen Velux)
+\item R03 (Dining Velux)
+\end{itemize}
+
+\subsection{Prices}
+\subsubsection{Ours}
+\begin{tabular}{|l|r|r|}
+\hline
+    &Wright     & FGM           
+\\ \hline
+W01 & 1653                              
+\\ \hline
+W02 & 670                            
+\\ \hline
+W04 & 816                             
+\\ \hline
+W05 & 851                            
+\\ \hline
+W06 & 890                            
+\\ \hline
+W07 & 770                            
+\\ \hline
+W08 & 1311                            
+\\ \hline
+W09 & 584                            
+\\ \hline
+W10 & 584                             
+\\ \hline
+W11 &1084                            
+\\ \hline
+W12 & 752                       
+\\ \hline
+W13  &582                           
+\\ \hline
+W14 & 752                            
+\\ \hline
+W15 &1016                            
+\\ \hline
+W16 &957                            
+\\ \hline
+W17 &957                            
+\\ \hline
+D01 &2388                            
+\\ \hline
+D02 &1697                            
+\\ \hline
+D03 &5512                            
+\\ \hline
+Total (ex)                      
+\\ \hline
+Total (inc) & 23826                    
+\\ \hline
+\\ \hline
+Options: 
+\\ \hline
+D03 Fold N Slide \\ & 6162
+\\ \hline
+
+\end{tabular}
+
+
+\subsubsection{Bridies}
+\begin{tabular}{|l|r|r|}
+\hline
+&Wright & FGM 
+\\ \hline
+W20 &570          
+\\ \hline
+W21 &502          
+\\ \hline
+W22 &3477          
+\\ \hline
+W23 &4344          
+\\ \hline
+W24 & in W23        
+\\ \hline
+D04 & in W23          
+\\ \hline
+Total (ex)        
+\\ \hline
+Total (inc)  & 8893      
+\\ \hline
+\\ \hline
+Options: 
+\\ \hline
+D03 Fold N Slide \\ & 6162
+\\ \hline
+\end{tabular}
