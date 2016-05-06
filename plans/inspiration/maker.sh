@@ -2,14 +2,14 @@
 
 rm -rf *.aux *.log *.out
 rm -rf *.toc *.tex 
-rm email.txt
+rm -rf email.txt
 
 pullResult=`git pull`
 statResult=`git status --porcelain | grep -v "maker" | grep "inspiration"`
 
 if [ "$statResult" = "" ]; then
   if [ "$pullResult" = "Already up-to-date." ]; then
-      #echo "Nothing to do today"  | mutt -s "BuildInspirations" ken.mccullagh@s3group.com
+      echo "Nothing to do, all up to date"
       exit 1
   fi
 fi
