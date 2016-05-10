@@ -34,6 +34,7 @@ header="""
 \\usepackage{graphicx}
 \\usepackage[a4paper, top=1cm, bottom=2cm, left=1cm, right=1cm]{geometry}
 \\usepackage{pdfpages}
+\\usepackage{xcolor,colortbl}
 %%\\pdfimageresolution=72
 \\begin{document}
 ~\\\\[5cm]
