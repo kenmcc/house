@@ -32,7 +32,7 @@ header="""
     urlcolor={blue!80!black}
 }
 \\usepackage{graphicx}
-\\usepackage[a4paper, top=1cm, bottom=1cm, left=1cm, right=1cm]{geometry}
+\\usepackage[a4paper, top=1cm, bottom=2cm, left=1cm, right=1cm]{geometry}
 \\usepackage{pdfpages}
 %%\\pdfimageresolution=72
 \\begin{document}
