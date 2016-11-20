@@ -1,0 +1,263 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.11.28)  27 APR 2015 12:09
+entering extended mode
+ %&-line parsing enabled.
+**Windows.tex
+(./Windows.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen109
+\calc@Bdimen=\dimen110
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+(/usr/share/texmf-texlive/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks16
+\c@AM@survey=\count94
+\AM@templatesizebox=\box27
+)
+
+LaTeX Warning: Unused global option(s):
+    [a3paper].
+
+(./Windows.aux)
+\openout1 = `Windows.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a3paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 0.0pt, 845.04684pt, 0.0pt
+v-parts: 0.0pt, 1195.01575pt, 0.0pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  845.04684pt
+\paperheight 1195.01575pt
+\textwidth  845.04684pt
+\textheight 1195.01575pt
+\oddsidemargin  -72.26999pt
+\evensidemargin -72.26999pt
+\topmargin  -109.26999pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 65.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen111
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen112
+\MPnumerator=\count99
+\everyMPtoPDFconversion=\toks18
+) ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+! Undefined control sequence.
+l.5     \includeimage
+                     {East.png}
+? 
+! Interruption.
+<to be read again> 
+                   {
+l.5     \includeimage{
+                      East.png}
+? 
+
+
+pdfTeX warning: pdflatex (file ./West.pdf): PDF inclusion: found PDF version <1
+.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: pdflatex (file ./West.pdf): PDF inclusion: found PDF version <1
+.5>, but at most version <1.4> allowed
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+pdfTeX warning: pdflatex (file ./West.pdf): PDF inclusion: found PDF version <1
+.5>, but at most version <1.4> allowed
+<West.pdf, id=10, page=1, 845.04686pt x 1195.01572pt>
+File: West.pdf Graphic file (type pdf)
+ <use West.pdf, page 1>
+File: West.pdf Graphic file (type pdf)
+
+<use West.pdf, page 1>
+File: West.pdf Graphic file (type pdf)
+ <use West.pdf, page 1>
+File: West.pdf Graphic file (type pdf)
+ <use West.pdf, page 1>
+File: West.pdf Graphic file (type pdf)
+
+<use West.pdf, page 1> [2 <./West.pdf>]
+
+pdfTeX warning: pdflatex (file ./NorthSouth.pdf): PDF inclusion: found PDF vers
+ion <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: pdflatex (file ./NorthSouth.pdf): PDF inclusion: found PDF vers
+ion <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: pdflatex (file ./NorthSouth.pdf): PDF inclusion: found PDF vers
+ion <1.5>, but at most version <1.4> allowed
+<NorthSouth.pdf, id=22, page=1, 845.04686pt x 1195.01572pt>
+File: NorthSouth.pdf Graphic file (type pdf)
+
+<use NorthSouth.pdf, page 1>
+File: NorthSouth.pdf Graphic file (type pdf)
+ <use NorthSouth.pdf, page 1>
+File: NorthSouth.pdf Graphic file (type pdf)
+
+<use NorthSouth.pdf, page 1>
+File: NorthSouth.pdf Graphic file (type pdf)
+ <use NorthSouth.pdf, page 1>
+File: NorthSouth.pdf Graphic file (type pdf)
+
+<use NorthSouth.pdf, page 1> [3 <./NorthSouth.pdf>] (./Windows.aux) ) 
+Here is how much of TeX's memory you used:
+ 2014 strings out of 495061
+ 28283 string characters out of 1182620
+ 83395 words of memory out of 3000000
+ 5209 multiletter control sequences out of 15000+50000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 32i,16n,36p,240b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Windows.pdf (3 pages, 286088 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
