@@ -85,7 +85,7 @@ def recurse(path, f, depth=0):
                 if not firstPrinted:
                     f.write("\\"+"sub"*(depth)+"section{Inspiration Images}")
                     firstPrinted = True
-                f.write("\\begin{figure}[!h]\\centering\\includegraphics[height=0.4\\textheight]{"+imgName+"}\\caption{"+caption+"}\\end{figure} \n")
+                f.write("\\begin{figure}[!h]\\centering\\includegraphics[width=0.8\\textwidth]{"+imgName+"}\\caption{"+caption+"}\\end{figure} \n")
     for fa in sorted(folders, key=lambda s: s.lower()):
         sections = fa.split("/")
         f.write("\\clearpage \n")
