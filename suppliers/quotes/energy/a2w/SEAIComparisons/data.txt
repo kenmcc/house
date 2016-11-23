@@ -1,0 +1,1690 @@
+<table>
+<tr><th>Details </th><th> Summary</th><th> Seasonal<br /> Performance <br />Factor (SPF) %</th><th> Rated <br />Capacity (kW)</th><th> Type</th></tr>
+<tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />GMLW 14 Plus / VHS-M14
+              - 514</strong></td><td>449.3</td><td>15.11</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L08EuC 230
+              - Single phase</strong></td><td>442</td><td>8.72</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L18EuC
+              - 3-phase</strong></td><td>442</td><td>19.73</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />SUHZ-SW45VA/EHSC-VM2B</strong></td><td>440</td><td>4.61</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />SUHZ-SW45VA / EHST20C-VM2B</strong></td><td>440</td><td>4.61</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            Stiebel Eltron : 
+            <br />WPL 25 A</strong></td><td>435</td><td>7.84</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L06EuC 230
+              - Single phase</strong></td><td>428</td><td>6.85</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC05F3E5</strong></td><td>426.4</td><td>4.993</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L06EuC
+              - 3-phase</strong></td><td>426</td><td>6.85</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L08EuC
+              - 3-phase</strong></td><td>425</td><td>7.31</td><td>
+					Air to water
+				</td></tr>
+				<tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXC09F3E5/WH-UX09FE5</strong></td><td>423.3</td><td>8.96</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC1216G6E5UK/WH-UX09FE5</strong></td><td>423.3</td><td>8.96</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />AQUAREA WH-SDC03H3E5/WH-UD03HE5</strong></td><td>423.2</td><td>3.12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MHF09G3E5</strong></td><td>422.4</td><td>8.957</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner : 
+            <br />GMLW
+              - 9</strong></td><td>421</td><td>11.26</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L14EuC 230
+              - Single phase</strong></td><td>421</td><td>15.93</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L20EuC
+              - 3-phase</strong></td><td>420</td><td>24.42</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L10EuC 230
+              - Single phase</strong></td><td>420</td><td>11.98</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXC09G3E5</strong></td><td>419.7</td><td>9.04</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - EVLQ05CAV3</strong></td><td>419.3</td><td>4.498</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L10EuC
+              - 3-phase</strong></td><td>419</td><td>11.98</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC0309G3E5UK/WH-UD03EE5</strong></td><td>418.1</td><td>3.321</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF03E3E3 / WH-UD03EE5</strong></td><td>418.1</td><td>3.321</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC03E3E5 / WH-UD03EE5</strong></td><td>418.1</td><td>3.321</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - ERLQ004CAV3</strong></td><td>418</td><td>4.43</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Enertech AB : 
+            CTC : 
+            <br />EcoAir 410</strong></td><td>417</td><td>11.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />GMLW 5 Plus / VHS-M5</strong></td><td>417</td><td>6.3</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 6
+              - 3 Phase</strong></td><td>417</td><td>6.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 6 SP</strong></td><td>417</td><td>6.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP-AQ
+              - HP6 (3 phase version)</strong></td><td>417</td><td>6.76</td><td>
+					Air to water
+				</td></tr>
+				<tr></td></tr><tr><td></td><td><strong>Bosch Thermoteknik A.B : 
+            IVT : 
+            <br />AIR X 90
+              - AIR X 90/AirModule E9</strong></td><td>416.7</td><td>3.32</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L14EuC
+              - 3-phase</strong></td><td>415</td><td>15.93</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            Stiebel Eltron : 
+            <br />WPL 25 AS</strong></td><td>415</td><td>8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Alpha Innotec GmbH : 
+            Alpha Innotec : 
+            <br />LWD 50A/SX</strong></td><td>415</td><td>7.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP - AQ
+              - 11 SP</strong></td><td>413</td><td>10.7</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 11 SP</strong></td><td>413</td><td>10.7</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive DUO 300 + PUHZ-SW75VHA</strong></td><td>411.9</td><td>4.773</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive DUO 200 + PUHZ-SW75VHA</strong></td><td>411.9</td><td>4.773</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive MONO + PUHZ-SW75VHA</strong></td><td>411.9</td><td>4.773</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Vaillant Group : 
+            Glow worm : 
+            <br />Envirosorb 3
+              - 8 kW</strong></td><td>411.7</td><td>8.039</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive Duo 300 + PUHZ-SW100VHA</strong></td><td>411</td><td>6.669</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive DUO 200 + PUHZ-SW100VHA</strong></td><td>411</td><td>6.669</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive MONO + PUHZ-SW100VHA</strong></td><td>411</td><td>6.669</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXC09D3E5</strong></td><td>410.7</td><td>9.3</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXF09D3E5</strong></td><td>410.7</td><td>9.3</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXF09D3E5 / WH-UX09DE5</strong></td><td>410.6</td><td>9.271</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXC09D3E5 / WH-UX09DE5</strong></td><td>410.6</td><td>9.271</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive DUO 300 + PUHZ-SW120VHA</strong></td><td>410.5</td><td>9.518</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive DUO 200 + PUHZ-SW120VHA</strong></td><td>410.5</td><td>9.518</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Orca Energija : 
+            Orca + Mitsubishi : 
+            <br />Exclusive MONO + PUHZ-SW120VHA</strong></td><td>410.5</td><td>9.518</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2040-12</strong></td><td>410</td><td>5.12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />AIR 717 C Eagle/Eagle 717 Auï¿½eneinheit
+              - 3-phase</strong></td><td>407.5</td><td>7.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 13 SP
+              - 13kW SP</strong></td><td>405.7</td><td>12.71</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mastertherm : 
+            Mastertherm : 
+            <br />BA30i</strong></td><td>404.8</td><td>8.55</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />PUHZ-W85VHA2</strong></td><td>404.3</td><td>7.107</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Toshiba : 
+            Toshiba : 
+            <br />Estia
+              - HWS-1102 H-E HWS-1402XWHT9-E</strong></td><td>404</td><td>11.35</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />AQUAREA WH-SDC05H3E5/WH-UD05HE5</strong></td><td>402.7</td><td>4.94</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MHF09D3E5</strong></td><td>402.6</td><td>9.49</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />ERLQ006CAV3</strong></td><td>402</td><td>6.07</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 2FSN3E &amp; RAS 2HVRN2</strong></td><td>402</td><td>5.1</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 2HFSN3E &amp; RAS 2HVRN2</strong></td><td>402</td><td>5.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-2HVRN2/RWD-2.0HFSNWE-200S</strong></td><td>401.7</td><td>5.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-2HVRN2/RWD-2.OHFSNWE-260S</strong></td><td>401.7</td><td>5.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2040-16</strong></td><td>401</td><td>7.22</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SHF09D3E5 / WH-UH09DE5</strong></td><td>400.9</td><td>9.166</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 13
+              - 3 Phase</strong></td><td>400</td><td>12.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP-AQ
+              - HP 13 (3 phase version)</strong></td><td>400</td><td>12.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Energy Save Nordic AB : 
+            ES : 
+            <br />AWH 11-V5</strong></td><td>400</td><td>6.117</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF12C6E5 / WH-UD12CE5-A</strong></td><td>399.2</td><td>11.971</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC12C6E5 / WH-UD12CE5-A</strong></td><td>399.2</td><td>11.971</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />GMLW 19 Plus /VHS - M19</strong></td><td>399</td><td>20.7</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />GMLW 25 plus / VHS-M25</strong></td><td>399</td><td>25.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW14</strong></td><td>398.4</td><td>9.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 9 SP</strong></td><td>398.3</td><td>8.78</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            Stiebel Eltron : 
+            <br />WPL 15 AS</strong></td><td>398.3</td><td>4.28</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />A12M
+              - 001</strong></td><td>398.3</td><td>12.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />A16M
+              - 001</strong></td><td>398.3</td><td>12.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW16</strong></td><td>398.1</td><td>10.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />PUHZ-W112VHA-BS</strong></td><td>397</td><td>12.11</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF06D3E5</strong></td><td>396.3</td><td>6.4</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC06E3E5</strong></td><td>396.3</td><td>6.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF06E3E5</strong></td><td>396.3</td><td>6.37</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kingspan Renewables Ltd : 
+            Kingspan : 
+            <br />Aeromax Plus
+              - KHP0041</strong></td><td>396</td><td>3.98</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Waterkotte : 
+            Waterkotte : 
+            <br />Ai1QL
+              - 5008.5</strong></td><td>396</td><td>9.53</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Enertech AB : 
+            CTC : 
+            <br />Eco Air 408</strong></td><td>395.7</td><td>7.86</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2040-8</strong></td><td>395</td><td>3.85</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Alpha Innotec GmbH : 
+            Alpha Innotec : 
+            <br />LWD
+              - 50A</strong></td><td>395</td><td>6.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXC12G6E5</strong></td><td>395</td><td>12.13</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF09C3E8</strong></td><td>394.4</td><td>9.3</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC09C3E8</strong></td><td>394.4</td><td>9.3</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXC12D6E5 / WH-UX12DE5</strong></td><td>394.1</td><td>12.328</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXF12D6E5 / WH-UX12DE5</strong></td><td>394.1</td><td>12.328</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 9
+              - Three Phase</strong></td><td>394</td><td>8.827</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP AQ
+              - HP 9 (3 phase version)</strong></td><td>394</td><td>8.827</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L06EuC-n 230
+              - Single phase</strong></td><td>392</td><td>5.95</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Remko : 
+            Remko : 
+            <br />WKF 120 IM/ WKF 120 AM</strong></td><td>391.7</td><td>10.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXF12D9E8 / WH-UX12DE8</strong></td><td>390.7</td><td>11.827</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXC12D9E8 / WH-UX12DE8</strong></td><td>390.7</td><td>11.827</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXC12D6E5</strong></td><td>390.3</td><td>12.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXF12D6E5</strong></td><td>390.3</td><td>12.5</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />GMLW 35 Plus / VHS M35</strong></td><td>390</td><td>37.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC1216G6E5UK/WH-UX12FE5</strong></td><td>389.7</td><td>11.79</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXC12F6E5/WH-UX12FE5</strong></td><td>389.7</td><td>11.79</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC12F6E5/WH-UD12FE5</strong></td><td>389.3</td><td>11.91</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC1216G6E5UK/WH-UD12FE5</strong></td><td>389.3</td><td>11.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />A8M</strong></td><td>389.3</td><td>6.67</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SHF09F3E5 / WH-UH09FE5</strong></td><td>388</td><td>8.97</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC14C6E5 / WH-UD14CE5-A</strong></td><td>387.8</td><td>14.141</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF14C6E5 / WH-UD14CE5-A</strong></td><td>387.8</td><td>14.181</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Vaillant Group : 
+            Glow worm : 
+            <br />Envirosorb 3
+              - 5kW</strong></td><td>387</td><td>4.58</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Vaillant : 
+            Vaillant : 
+            <br />VWL 55/2 A 230V</strong></td><td>387</td><td>4.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L10EuC-n cooling
+              - 3-phase</strong></td><td>387</td><td>9.35</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MHF12G6E5</strong></td><td>386.4</td><td>11.711</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA6MI</strong></td><td>386</td><td>6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA12MI</strong></td><td>386</td><td>11.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura AG : 
+            <br />L06EuC-n 230 cooling
+              - Single phase</strong></td><td>385</td><td>5.95</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L06EuC-n
+              - 3-phase</strong></td><td>385</td><td>5.95</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MHF12D6E5</strong></td><td>384.9</td><td>12.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert
+              - AW6</strong></td><td>384.8</td><td>4.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Remko : 
+            Remko : 
+            <br />CMF 180 IM / CMF 180 AM
+              - Single / 3 Phase</strong></td><td>384.3</td><td>14.2</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Remko : 
+            Remko : 
+            <br />WKF 180 IM/ WKF 180 AM
+              - Single / 3 Phase</strong></td><td>384</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />13 Basic</strong></td><td>384</td><td>10.69</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />13 S Basic</strong></td><td>384</td><td>10.69</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Thermia : 
+            Thermia : 
+            <br />Atec HP 16 SP</strong></td><td>382.3</td><td>15.57</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Toshiba : 
+            Toshiba : 
+            <br />Estia
+              - HWS-1402 H-E HWS-1402XWHT9-E</strong></td><td>382</td><td>14.274</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC14F6E5/WH-UD14FE5</strong></td><td>381.3</td><td>13.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />ELW 8</strong></td><td>381.3</td><td>6.92</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2015
+              - 8kW</strong></td><td>381</td><td>7.62</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2016-8</strong></td><td>381</td><td>7.62</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>CTC : 
+            CTC : 
+            <br />Ecoair 415
+              - 3 Phase</strong></td><td>380.5</td><td>16.3</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-3HVRNME-AF/RWD-3.OHFSNWE-260S</strong></td><td>380.3</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-3HVRNME-AF/RWD-3.0HFSNWE-200S</strong></td><td>380.3</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 3FSN3E &amp; RAS 3HVRNME-AF</strong></td><td>380</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA40TU</strong></td><td>380</td><td>34.72</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA17TU</strong></td><td>380</td><td>19.55</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA25TU</strong></td><td>380</td><td>26.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin Europe NV : 
+            <br />Altherma
+              - ERHQ014AAV3</strong></td><td>380</td><td>14.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />18 E</strong></td><td>380</td><td>12.3</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L06EuC-n cooling
+              - 3-phase</strong></td><td>380</td><td>5.95</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Vaillant : 
+            Vaillant : 
+            <br />VWL 155/2 A 230V</strong></td><td>379</td><td>14.5</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Vaillant Group : 
+            Glow worm : 
+            <br />Envirosorb 3
+              - 15 kW</strong></td><td>379</td><td>14.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Alpha Innotec GmbH : 
+            Alpha Innotec : 
+            <br />LW 121</strong></td><td>379</td><td>13.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF07C3E5 / WH-UD07CE5-A</strong></td><td>378.4</td><td>7.375</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC07F3E5/WH-UD07FE5</strong></td><td>378.4</td><td>7.375</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC0309G3E5UK/WH-UD07FE5</strong></td><td>378.4</td><td>7.38</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC07C3E5 / WH-UD07CE5-A</strong></td><td>378.4</td><td>7.375</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW9</strong></td><td>378.4</td><td>6.32</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SXC16F9E8 / WH-UX16FE8</strong></td><td>378.3</td><td>16.284</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>CTC : 
+            CTC : 
+            <br />EcoAir 510M 1x230V</strong></td><td>378.3</td><td>6.21</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - EDHQ011AA6V3</strong></td><td>378</td><td>11.2</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - EDHQ011BB6V3</strong></td><td>378</td><td>11.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA60TU</strong></td><td>378</td><td>59.21</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa +
+              - Alfea extensa + 5 / WOYA060LDC</strong></td><td>378</td><td>4.52</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa Duo +
+              - + 5 / WOYA060LDC</strong></td><td>378</td><td>4.52</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MXC16G9E8
+              - 3-phase</strong></td><td>377</td><td>16.48</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Alpha Innotec GmbH : 
+            Alpha Innotec : 
+            <br />LW 140</strong></td><td>377</td><td>15.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Toshiba : 
+            Toshiba : 
+            <br />Estia
+              - HWS-802 H-E HWS-802XWT6-E</strong></td><td>377</td><td>8.36</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW22-3P</strong></td><td>376.8</td><td>13.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Vaillant Group : 
+            Glow worm : 
+            <br />Envirosorb 3
+              - 11 kW</strong></td><td>376.7</td><td>10.389</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Vaillant : 
+            Vaillant : 
+            <br />VWL 85/2 A 230V</strong></td><td>376.7</td><td>8</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Vaillant : 
+            Vaillant : 
+            <br />VWL 115/2 A 230V</strong></td><td>376.7</td><td>10.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L08EuC-n
+              - 3-phase</strong></td><td>376</td><td>7.06</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura AG : 
+            <br />L08EuC-n 230 cooling
+              - Single phase</strong></td><td>376</td><td>7.06</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Samsung Electronics : 
+            Samsung : 
+            <br />RC120MHXEA</strong></td><td>375.7</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 8HFSN3E &amp; RAS 8HRNME-AF</strong></td><td>375</td><td>19.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 8FSN3E &amp; RAS 8HRNME-AF</strong></td><td>375</td><td>19.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Energie EST Lda : 
+            Energie : 
+            <br />Inverter
+              - 4/12</strong></td><td>375</td><td>8.15</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC12C9E8</strong></td><td>374.4</td><td>12.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF12C9E8</strong></td><td>374.4</td><td>12.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Waterkotte : 
+            Waterkotte : 
+            <br />Ai1QL
+              - 5011.5</strong></td><td>374</td><td>12.08</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner Warmepumpen : 
+            <br />AIR 618 C Basic (ELW12)/ELW12
+              - Single Phase</strong></td><td>373.7</td><td>12.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF09C3E5 / WH-UD09CE5-A</strong></td><td>373.7</td><td>9.095</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC09C3E5 / WH-UD09CE5-A</strong></td><td>373.7</td><td>9.095</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC0309G3E5UK/WH-UD09FE5</strong></td><td>373.7</td><td>9.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC09F3E5/WH-UD09FE5</strong></td><td>373.7</td><td>9.095</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa duo + 5
+              - Alfeaextensa duo+5/WOYA060LFCA</strong></td><td>373.3</td><td>4.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa + 5
+              - Alfea extensa + 5 /WOYA060LFCA</strong></td><td>373.3</td><td>4.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />33 HTS</strong></td><td>373</td><td>5.61</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />33 HT</strong></td><td>373</td><td>5.61</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 4FSN3E &amp; RAS 4HVRNME-AF</strong></td><td>373</td><td>9.8</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-4HVRNME-AF/RWD-4.0HFSNWE-200S</strong></td><td>373</td><td>9.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 4HFSN3E &amp; RAS 4HVRNME-AF</strong></td><td>373</td><td>9.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 4HFSN3E &amp; RAS 4HRNME-AF</strong></td><td>373</td><td>9.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW28-3P</strong></td><td>372.6</td><td>16.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Remko : 
+            CMF : 
+            <br />120 IM
+              - 250048</strong></td><td>372</td><td>9.95</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ochsner Warmepumpen : 
+            Ochsner : 
+            <br />GMLW
+              - 14 plus</strong></td><td>372</td><td>13.07</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2015
+              - 6kW</strong></td><td>372</td><td>5.91</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2016-6</strong></td><td>372</td><td>5.91</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 10HFSN3E &amp; RAS 10HRNME-AF</strong></td><td>371</td><td>24</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 10FSN3E &amp; RAS 10HRNME-AF</strong></td><td>371</td><td>24</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Mark Eire B.V : 
+            Mark : 
+            <br />EvoTherm
+              - AW 15</strong></td><td>370</td><td>13.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>CTC : 
+            CTC : 
+            <br />Ecoair 420
+              - 3 Phase</strong></td><td>369.6</td><td>18.719</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Alpha Innotec GmbH : 
+            Alpha Innotec : 
+            <br />LWD
+              - 70A SX</strong></td><td>369</td><td>9.72</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />ERLQ011CAV3</strong></td><td>368</td><td>11.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L08EuC-n cooling
+              - 3-phase</strong></td><td>368</td><td>7.06</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L08EuC-n 230
+              - Single phase</strong></td><td>368</td><td>7.06</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L10EuC-n 230 cooling
+              - Single phase</strong></td><td>368</td><td>9.46</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L10EuC-n
+              - 3-phase</strong></td><td>368</td><td>9.35</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF16C6E5 / WH-UD16CE5-A</strong></td><td>367.8</td><td>16.017</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC16C6E5 / WH-UD16CE5-A</strong></td><td>367.8</td><td>16.017</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC05E3E5 / WH-UD05EE5</strong></td><td>367.5</td><td>4.922</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF05E3E5 / WH-UD05EE5</strong></td><td>367.5</td><td>4.922</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC0309G3E5UK/WH-UD05EE5</strong></td><td>367.5</td><td>4.922</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Remko : 
+            CMF : 
+            <br />160 IM
+              - 250058</strong></td><td>367</td><td>13.3</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2300-20</strong></td><td>367</td><td>18.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SHF12D6E5 / WH-UH12DE5</strong></td><td>366.8</td><td>11.579</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mastertherm : 
+            Mastertherm : 
+            <br />BA22i</strong></td><td>365.6</td><td>4.67</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Aquatech Heating Solutions : 
+            Tosot Gree : 
+            <br />GRS-CQ14Pd/NaB-M(IandO)
+              - 3-Phase</strong></td><td>365</td><td>13.99</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW16-3P</strong></td><td>364.8</td><td>9.58</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - EBHQ006BAV3</strong></td><td>364.8</td><td>5.9</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Remko : 
+            Remko : 
+            <br />WKF 85 IM/ WKF 85 AM</strong></td><td>364.7</td><td>8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-ADC1216G6E5UK/WH-UD16FE5</strong></td><td>364.3</td><td>15.26</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC16F6E5/WH-UD16FE5</strong></td><td>364.3</td><td>15.26</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mastertherm : 
+            Mastertherm : 
+            <br />BA45i</strong></td><td>364.2</td><td>14.7</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC09C3E5</strong></td><td>364</td><td>9.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF09C3E5</strong></td><td>364</td><td>9.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 3HFSN3E &amp; RAS 3HVRNME-AF</strong></td><td>364</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Immergas : 
+            Immergas : 
+            <br />Pompa Di Calore Audax 10</strong></td><td>363.7</td><td>11.28</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Aquatech Heating Solutions : 
+            Tosot Gree : 
+            <br />GRS-CQ12Pd/NaBK (IandO)
+              - Single Phase</strong></td><td>363.7</td><td>12.16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa duo + 6
+              - Alfeaextensa duo+6/WOYA060LFCA</strong></td><td>363.3</td><td>6</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa + 6
+              - Alfea extensa + 6/WOYA060LFCA</strong></td><td>363.3</td><td>6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa +
+              - + 6 8 &amp; 10/WOYA060LDC</strong></td><td>363.3</td><td>6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa Duo +
+              - +6 8 &amp; 10/WOYA060LDC</strong></td><td>363</td><td>6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - EDHQ014AA6V3</strong></td><td>363</td><td>14.59</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />Altherma
+              - EDHQ014BB6V3</strong></td><td>363</td><td>14.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />ERLQ014CAV3</strong></td><td>363</td><td>14.26</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Samsung Electronics : 
+            Samsung : 
+            <br />RC090MHXEA</strong></td><td>361.7</td><td>9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-5HVRNME-AF/RWD-5.OHFSNWE-260S</strong></td><td>361.3</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-5HVRNME-AF/RWD-5.0HFSNWE-200S</strong></td><td>361.3</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 5HFSN3E &amp; RAS 5HVRNME-AF</strong></td><td>361</td><td>12</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 5HFSN3E &amp; RAS 5HRNME-AF</strong></td><td>361</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 5FSN3E &amp; RAS 5HVRNME-AF</strong></td><td>361</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 11MR-2/MIT-IN-2/E 11-16 ISYS EH390</strong></td><td>361</td><td>12.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 11MR-2/MIT-IN-2/H 11-16 ISYS EH387</strong></td><td>361</td><td>12.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 11TR-2/MIT-IN-2/E 11-16 ISYS EH390</strong></td><td>361</td><td>12.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 11TR-2/MIT-IN-2/H 11-16 ISYS EH387</strong></td><td>361</td><td>12.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />23 Cool</strong></td><td>361</td><td>17.46</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />23 E</strong></td><td>361</td><td>17.46</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L14EuC-n
+              - 3-phase</strong></td><td>360</td><td>11.83</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura AG : 
+            <br />L14EuC-n 230 cooling
+              - Single phase</strong></td><td>360</td><td>12.03</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC14C9E8</strong></td><td>359.2</td><td>14.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF14C9E8</strong></td><td>359.2</td><td>14.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Yutaki : 
+            <br />RHUE - 6AVHN</strong></td><td>359</td><td>7.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF09E3E5</strong></td><td>358.5</td><td>9.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC09E3E5</strong></td><td>358.5</td><td>9.05</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF09D3E5</strong></td><td>358.5</td><td>9.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RHUE 3AVHN1</strong></td><td>358</td><td>7.73</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 4FSN3E &amp; RAS 4HRNME-AF</strong></td><td>358</td><td>9.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kingspan Renewables Ltd : 
+            Kingspan : 
+            <br />Aeromax Plus
+              - KHP0038</strong></td><td>358</td><td>5.98</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L14EuC-n cooling
+              - 3-phase</strong></td><td>358</td><td>11.83</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L14EuC-n 230
+              - Single phase</strong></td><td>358</td><td>12.03</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kufi int. Sro : 
+            AC Heating : 
+            <br />Convert AW19-3P</strong></td><td>357.6</td><td>11.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Aquatech Heating Solutions : 
+            Tosot Gree : 
+            <br />GRS-CQ16Pd/NaB-M(IandO)
+              - 3-Phase</strong></td><td>357.3</td><td>15.227</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Duo Tri
+              - Alfea excellia duo/WOYK112LCT</strong></td><td>357.3</td><td>10.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Tri
+              - Alfea excellia/ WOYK112LCT</strong></td><td>357</td><td>10.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SHF12F6E5 / WH-UH12FE5</strong></td><td>357</td><td>11.88</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 8 MR-2/MIT-IN-2/E 4-8 ISYS EH389</strong></td><td>357</td><td>8.26</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 8 MR-2/MIT-IN-2/H 4-8 ISYS EH386</strong></td><td>357</td><td>8.26</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDF16C9E8 / WH-UD16CE8</strong></td><td>356.3</td><td>15.83</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-SDC16C9E8 / WH-UD16CE8</strong></td><td>356.3</td><td>15.83</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Kingspan Renewables Ltd : 
+            Kingspan : 
+            <br />Aeromax Plus
+              - KHP0042</strong></td><td>356</td><td>15.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />ERLQ008CAV3</strong></td><td>356</td><td>7.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />PUHZ-HW140VHA2 - BS</strong></td><td>355.2</td><td>14.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />ERLQ016CAW1</strong></td><td>355</td><td>15.63</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA9MI</strong></td><td>355</td><td>9.55</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC12G6E5</strong></td><td>354.4</td><td>11.6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Samsung Electronics : 
+            Samsung : 
+            <br />RC160MHXEA</strong></td><td>354.3</td><td>16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 16MR-2/MIT-IN-2/E 11-16 ISYS EH390</strong></td><td>354</td><td>14.73</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 16MR-2/MIT-IN-2/H 11-16 ISYS EH387</strong></td><td>354</td><td>14.73</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 16TR-2/MIT-IN-2/E 11-16 ISYS EH390</strong></td><td>354</td><td>14.73</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            De Dietrich : 
+            <br />AWHP 16TR-2/MIT-IN-2/H 11-16 ISYS EH387</strong></td><td>354</td><td>14.73</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>TEV : 
+            Heatking : 
+            <br />Bwarm
+              - 12000</strong></td><td>353.6</td><td>11.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />13 E</strong></td><td>353</td><td>9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />47</strong></td><td>353</td><td>26.83</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia
+              - Alfea excellia/ WOYG112LCT</strong></td><td>352.3</td><td>10.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa Duo +
+              - +6 8 &amp; 10/ WOYA080LDC</strong></td><td>352.3</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa +
+              - +6 8 &amp; 10/ WOYA080LDC</strong></td><td>352.3</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa + 8
+              - Alfea extensa + 8/WOYA080FLCA</strong></td><td>352.3</td><td>7.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Duo
+              - Alfea excellia duo/ WOYG112LCT</strong></td><td>352.3</td><td>10.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa duo + 8
+              - Alfeaextensa duo+8/WOYA080LFCA</strong></td><td>352.3</td><td>7.5</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2015
+              - 11kW</strong></td><td>352</td><td>10.02</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />F2016-11</strong></td><td>352</td><td>10.02</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC12C6E5</strong></td><td>352</td><td>11.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF12C6E5</strong></td><td>352</td><td>11.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>TEV : 
+            Heatking : 
+            <br />Bwarm
+              - 8000</strong></td><td>351.6</td><td>8.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Energie EST Lda : 
+            Energie : 
+            <br />FF Evi 17
+              - 3-phase</strong></td><td>350.3</td><td>17.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Aquatech Heating Solutions : 
+            TOSOT GREE : 
+            <br />GRS-CQ6.OPD/NABK (I and O)</strong></td><td>350</td><td>6.107</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Neura AG : 
+            Neura : 
+            <br />L10EuC-n 230
+              - Single phase</strong></td><td>350</td><td>9.46</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Tri
+              - Alfea excellia / WOYK140LCT</strong></td><td>349.7</td><td>13</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Duo Tri
+              - Alfea excellia duo/WOYK140LCT</strong></td><td>349.7</td><td>13</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 04 KW / NIMBUS WH 1Z</strong></td><td>349.3</td><td>4.08</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 04 KW / NIMBUS WH 2Z</strong></td><td>349.3</td><td>4.08</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 04 KW / NIMBUS FS 2Z</strong></td><td>349.3</td><td>4.08</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 04 KW / NIMBUS FS 1Z</strong></td><td>349.3</td><td>4.08</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 5FSN3E &amp; RAS 5HRNME-AF</strong></td><td>349</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 06 KW / NIMBUS FS 1Z</strong></td><td>348.7</td><td>5.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 06 KW / NIMBUS FS 2Z</strong></td><td>348.7</td><td>5.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 06 KW / NIMBUS WH 2Z</strong></td><td>348.7</td><td>5.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 06 KW / NIMBUS WH 1Z</strong></td><td>348.7</td><td>5.76</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 6FSN3E &amp; RAS 6HRNME-AF</strong></td><td>348</td><td>14</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 6FSN3E &amp; RAS 6HVRNME-AF</strong></td><td>348</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 6HFSN3E &amp; RAS 6HVRNME-AF</strong></td><td>348</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RWM 6HFSN3E &amp; RAS 6HRNME-AF</strong></td><td>348</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-6HVRNME-AF/RWD-6.0HFSNWE-200S</strong></td><td>347.7</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-6HVRNME-AF/RWD-6.OHFSNWE-260S</strong></td><td>347.7</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Immergas : 
+            Immergas : 
+            <br />Pompa Di Calore Audax 6</strong></td><td>347.7</td><td>6.15</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Duo Tri
+              - Alfea excellia duo/ WOYK160LCT</strong></td><td>347.3</td><td>15.17</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia Tri
+              - Alfea excellia/ WOYK160LCT</strong></td><td>347.3</td><td>15.17</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ciat : 
+            Ciat : 
+            <br />EREBA 15 H</strong></td><td>347.3</td><td>14.46</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />18 S Basic</strong></td><td>347</td><td>13.628</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa +
+              - +6 8 &amp; 10/ WOYA100LDT</strong></td><td>347</td><td>10</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa Duo +
+              - +6 8 &amp; 10/WOYA100LDT</strong></td><td>347</td><td>10</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa duo + 10
+              - Alfeaextensaduo+10/WOYA100LFTA</strong></td><td>347</td><td>10</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa + 10
+              - Alfea extensa + 10/WOYA100LFTA</strong></td><td>347</td><td>10</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa + 13
+              - Alfea extensa +13/WOYG112LCTA</strong></td><td>346</td><td>14.01</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa +
+              - Alfea extensa+13&amp;16/WOYG112LCT</strong></td><td>346</td><td>14.01</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA16MI</strong></td><td>346</td><td>15.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Energie EST Lda : 
+            Energie : 
+            <br />FF Evi
+              - 10</strong></td><td>345.7</td><td>9.15</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Energie EST Lda : 
+            Energie : 
+            <br />FF Evi
+              - 15</strong></td><td>345.4</td><td>14.7</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa Duo
+              - Alfea excellia duo/ WOYG140LCT</strong></td><td>345.3</td><td>13.5</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Excellia
+              - Alfea excellia/ WOYG140LCT</strong></td><td>345.3</td><td>13.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ciat : 
+            Ciat : 
+            <br />EREBA 4 H</strong></td><td>345.3</td><td>4.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RHUE 6AVHN-HM</strong></td><td>345</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RHUE 6AHN-HM</strong></td><td>345</td><td>14</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />AQUAREA WH-SDC09H3E5/WH-UD09HE5</strong></td><td>344.8</td><td>9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kingspan Renewables Ltd : 
+            Kingspan : 
+            <br />Aeromax Plus
+              - KHP0040</strong></td><td>344</td><td>12.9</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            WPL : 
+            <br />20 Basic</strong></td><td>344</td><td>15.17</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ciat : 
+            Ciat : 
+            <br />EREBA 6 H</strong></td><td>343.7</td><td>5.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Hitachi : 
+            <br />RAS-4HVRNME-AF/RWD-4.OHFSNWE-260S</strong></td><td>343.7</td><td>9.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Aquatech Heating Solutions : 
+            Tosot Gree : 
+            <br />GRS-CQ10Pd/NaB-K (IandO)</strong></td><td>342.7</td><td>9.566</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />PUHZ-W50VHA-BS</strong></td><td>342.4</td><td>5.33</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 08 KW / NIMBUS WH 1Z</strong></td><td>342.3</td><td>7.36</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 08 KW / NIMBUS WH 2Z</strong></td><td>342.3</td><td>7.36</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL 08 KW / NIMBUS FS 2Z</strong></td><td>342.3</td><td>7.36</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ariston Thermo UK Ltd : 
+            Ariston : 
+            <br />NIMBUS EXTERNAL UNIT 08 KW / NIMBUS FS 1Z</strong></td><td>342.3</td><td>7.36</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Yutaki : 
+            <br />RHUE3AVHN-HM</strong></td><td>342</td><td>7.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Aquatech Heating Solutions : 
+            Tosot Gree : 
+            <br />GRS-CQ8.0Pd/NaB-K (IandO)</strong></td><td>341.8</td><td>8.479</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            Stiebel Eltron : 
+            <br />WPL
+              - 10 ACS</strong></td><td>341</td><td>7.72</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP-AX
+              - 6 SP</strong></td><td>341</td><td>6</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP-AX
+              - 8 SP</strong></td><td>341</td><td>7.12</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP-AX
+              - 10 SP</strong></td><td>341</td><td>10.89</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Danfoss : 
+            Danfoss : 
+            <br />DHP-AX
+              - 12SP</strong></td><td>341</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Kingspan Renewables Ltd : 
+            Kingspan : 
+            <br />Aeromax Plus
+              - KHP0039</strong></td><td>340</td><td>7.54</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ciat : 
+            Ciat : 
+            <br />EREBA 8 H</strong></td><td>338.7</td><td>7.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF14C6E5</strong></td><td>338.4</td><td>13.8</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC14C6E5</strong></td><td>338.4</td><td>13.83</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin : 
+            <br />EBHQ008BAV3</strong></td><td>338</td><td>8.89</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF16C9E8</strong></td><td>336.8</td><td>16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC16C9E8</strong></td><td>336.8</td><td>16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Ciat : 
+            Ciat : 
+            <br />EREBA 12 H</strong></td><td>334.3</td><td>12.95</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Daikin Europe NV : 
+            Daikin Europe NV : 
+            <br />Altherma
+              - ERHQ007ADV3</strong></td><td>334</td><td>8.94</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA11MS</strong></td><td>333</td><td>10.16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LA16MS</strong></td><td>330</td><td>15.1</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LIK8ME</strong></td><td>330</td><td>9.2</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LI11ME</strong></td><td>330</td><td>10.16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Nibe AB : 
+            Nibe : 
+            <br />Nibe Split
+              - ACVM 10-270</strong></td><td>330</td><td>11.05</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea extensa + 16
+              - Alfea extensa + 16/WOYG140LCTA</strong></td><td>330</td><td>16.06</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Atlantic : 
+            Atlantic : 
+            <br />Alfea Extensa +
+              - Alfea extensa+13-16/WOYG140LCT</strong></td><td>330</td><td>16.06</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Immergas : 
+            Immergas : 
+            <br />Pompa Di Calore Audax 8</strong></td><td>328.7</td><td>7.44</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            Stiebel Eltron : 
+            <br />WPL
+              - 57</strong></td><td>328</td><td>31.01</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC16G6E5</strong></td><td>327</td><td>15.99</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Yutaki : 
+            <br />RHUE4AVHN - HM</strong></td><td>325</td><td>9.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Alpha Innotec GmbH : 
+            Alpha Innotec : 
+            <br />LW 81A/SX</strong></td><td>323</td><td>9.5</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDC16C6E5</strong></td><td>321.6</td><td>16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Panasonic : 
+            Panasonic : 
+            <br />WH-MDF16C6E5</strong></td><td>321.6</td><td>16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Yutaki : 
+            <br />RHUE5AVHN - HM</strong></td><td>321</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Hitachi Europe : 
+            Yutaki : 
+            <br />RHUE5AHN-HM</strong></td><td>321</td><td>12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Stiebel Eltron : 
+            Stiebel Eltron : 
+            <br />WPL
+              - 34</strong></td><td>320</td><td>20.16</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Mitsubishi Electric : 
+            Mitsubishi Electric : 
+            <br />PUHZ-W90 VHA</strong></td><td>319</td><td>9.29</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LAB07M</strong></td><td>318</td><td>7.72</td><td>
+					Air to water
+				</td></tr>
+<tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LAB09M</strong></td><td>316</td><td>9.46</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Dimplex : 
+            Dimplex : 
+            <br />LAB11M</strong></td><td>316</td><td>11.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            Mitsubishi/De Dietrich : 
+            <br />PUHZ-EP200YKA/MIT-IN-2/E 22-27 ISYS EH391</strong></td><td>306</td><td>19.43</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            Mitsubish/De Dietrich : 
+            <br />PUHZ-RP200YKA/MIT-IN-2/H 22-27 ISYS EH388</strong></td><td>306</td><td>19.43</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            Mitsubishi/De Dietrich : 
+            <br />PUHZ-RP250YKA/MIT-IN-2/E 22-27 ISYS EH391
+              - AWHP 27 TR</strong></td><td>305</td><td>24.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>De Dietrich : 
+            Mitsubishi/De Dietrich : 
+            <br />PUHZ-RP250YKA/MIT-IN-2/H 22-27 ISYS EH388</strong></td><td>305</td><td>24.4</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Energy Panel SL : 
+            Green E-pack : 
+            <br />GTEP01</strong></td><td>285</td><td>1.17</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Sanyo : 
+            Sanyo : 
+            <br />Natural Refrigerant Heat Pump Water Heater
+              - SHP-C45DEN</strong></td><td>284.67</td><td>4.12</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Sanyo : 
+            Sanyo : 
+            <br />Natural Refrigerant Heat Pump Water Heater
+              - SHP-C90GEN</strong></td><td>279.5</td><td>9.42</td><td>
+					Air to water
+				</td></tr><tr></td></tr><tr><td></td><td><strong>Sanyo : 
+            Sanyo : 
+            <br />Natural Refrigerant Heat Pump Hot Water Heater
+              - SHP-C90GDN</strong></td><td>279.5</td><td>9.42</td><td>
+					Air to water
+				</td></tr>
+</table>
