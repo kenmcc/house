@@ -1,0 +1,7482 @@
+5
+1
+6
+1
+1
+
+Skips and the like
+
+Insurances
+
+Supervision
+
+Cleaning
+
+Security
+
+BQ/1
+
+1
+
+Plant & Machinery
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+1
+
+Scaffolding
+
+1250.00
+
+350.00
+
+600.00
+
+600.00
+
+500.00
+
+1000.00
+
+2500.00
+
+EXCL
+
+12,300.00
+
+1,250.00
+
+350.00
+
+3,600.00
+
+600.00
+
+2,500.00
+
+1,000.00
+
+2,500.00
+
+500.00
+
+Amount
+
+(00) PRELIMINARIES
+
+500.00
+
+Rate
+
+To Collection €
+
+item
+
+item
+
+months
+
+item
+
+nr
+
+item
+
+item
+
+item
+
+1
+
+utility
+
+Health & Safety
+
+and
+
+Unit
+
+Item
+
+Fees
+
+Qty
+
+Local
+Authority
+connections
+
+PRELIMINARIES
+
+Description
+
+(00) PRELIMINARIES
+
+E.D. Estimating
+Description
+
+1
+
+Existing extension
+
+1
+
+Miscellaneous joinery
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Window ope
+
+Building up
+
+Generally
+
+Partitions
+
+generally
+
+Finishes
+
+Services generally
+
+BQ/2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+External doors/windows
+
+Plumbing and engineering installations
+
+1
+
+Existing kitchen
+
+Fittings and fixtures
+
+Removing
+
+5000 x 2700mm
+
+Creating opes
+
+Creating opes; propping as required
+
+1
+
+1
+
+Sundry demolitions
+ALTERATIONS
+
+1
+
+Existing pitched roof structure
+
+Demolishing parts of structures
+
+1
+
+Qty
+
+Existing shed
+
+Demolishing individual structures
+
+Carefully demolish; temporary propping as
+required; cart away materials
+
+DEMOLITIONS
+
+DEMOLITION AND ALTERATIONS
+
+(00) DEMOLITION AND ALTERATIONS
+
+E.D. Estimating
+
+175.00
+
+100.00
+
+300.00
+
+300.00
+
+200.00
+
+250.00
+
+200.00
+
+1200.00
+
+500.00
+
+1680.00
+
+2500.00
+
+800.00
+
+To Collection €
+
+item
+
+item
+
+item
+
+item
+
+item
+
+item
+
+item
+
+item
+
+item
+
+item
+
+Sum
+
+Sum
+
+Rate
+
+8,205.00
+
+175.00
+
+100.00
+
+300.00
+
+300.00
+
+200.00
+
+250.00
+
+200.00
+
+1,200.00
+
+500.00
+
+1,680.00
+
+2,500.00
+
+800.00
+
+Amount
+
+(00) DEMOLITION AND ALTERATIONS
+Unit
+
+Description
+
+m3
+
+15
+62
+
+topsoil; on site in temporary
+heaps for re-use elsewhere
+
+excavated material; off site
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/3
+
+blinding filling; levelling with sand;
+50mm thick; compacted
+
+Surface treatments
+
+average thickness greater than 250mm
+
+Sides of foundations
+
+average thickness not exceeding 250mm
+
+to make up levels
+
+100
+
+15
+
+23
+
+2.50
+
+38.00
+
+38.00
+
+To Collection €
+
+m2
+
+m3
+
+m3
+
+5,446.00
+
+250.00
+
+570.00
+
+874.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+horizontal; to foundations
+
+Fabric
+
+BQ/4
+
+Reinforcing fabric mesh shall be high
+yield reinforcing fabric to B.S. 4483 in
+accordance
+with
+the
+engineer's
+specification; reference A393; size 200 x
+200mm; weighing 6.16kg/m2; minimum laps
+400mm; no allowance in measurement for
+laps; fixed in position with and including
+all necessary laps, spacers, chairs and
+tying wire
+
+to concrete slab
+
+Surface Finishes
+
+Float finish
+
+SUNDRIES
+
+extra over for polythene layer
+
+75mm thick
+
+Screeds
+
+exceeding 150mm thick; reinforced
+
+Beds
+
+Hardcore Clause 804 or equal approved
+material in accordance with Engineer's
+Specification; depositing and compacting
+in layers 150mm maximum thickness
+
+2,046.00
+
+90.00
+
+INCL
+
+INCL
+
+992.00
+
+324.00
+
+REINFORCEMENT
+
+33.00
+
+6.00
+
+16.00
+
+12.00
+
+exceeding 150mm thick; reinforced
+
+Foundations
+
+FILLING
+
+m3
+
+item
+
+water; ground
+
+m3
+
+m3
+
+item
+
+62
+
+27
+
+water; surface
+
+Disposal
+
+not exceeding 2.0m deep
+
+Trenches
+
+not exceeding 2.0m deep
+
+Reduced levels
+
+150mm deep
+
+Strip topsoil
+
+Reinforced in-situ concrete; Grade C35N20;
+vibrated; as per Engineer's specification
+
+Excavation generally
+
+spoil
+
+Description
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+IN-SITU CONCRETE
+
+300.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+3.00
+
+Rate
+
+EXCAVATION
+
+m2
+
+Unit
+
+CONCRETE WORK
+
+100
+
+Qty
+
+EXCAVATION AND EARTHWORK
+
+(19) SUBSTRUCTURE
+
+E.D. Estimating
+
+63
+
+90
+
+90
+
+90
+
+14
+
+19
+
+Qty
+
+9.97
+
+2.50
+
+2.00
+
+23.00
+
+120.00
+
+6,968.11
+
+628.11
+
+225.00
+
+180.00
+
+2,070.00
+
+1,680.00
+
+2,185.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+115.00
+
+Rate
+
+To Collection €
+
+m2
+
+m2
+
+m2
+
+m2
+
+m3
+
+m3
+
+Unit
+
+Description
+
+GAS
+
+PROOF
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+1
+
+BQ/5
+
+equally
+
+extra over for monarflex
+approved vent caps
+
+or
+
+1
+
+100 outlets/inlets; square 600 x 600
+
+Radon sump; bedding in compacted hardcore
+with sand blinding
+
+Monarflex
+or
+equal
+approved
+depressurisation sumps, PVC proprietary
+collection
+box,
+centrally
+located
+as
+indicated on the floor plans; include for
+protection of radon sump from works over,
+method at contractor's discretion
+
+5
+
+21
+
+vertically; exceeding 300mm wide
+
+extra over for lapping/sealing around
+popups including tophats; irrespective
+of size
+
+90
+
+90
+
+Qty
+
+horizontal; exceeding 300mm wide
+
+Damp proofing
+
+"RMB Monarflex" RMB 400 or 1200 Visqueen
+or equal and approved radon barrier Irish
+Agrement Board Certificate No. 98/0075 3rd print: 1999-11-05; laid strictly in
+accordance
+with
+the
+manufacturers
+instructions on blinded hardcore base; no
+allowance for laps
+
+MASTIC ASPHALT, WATERPROOF AND
+NON-METAL FLEXIBLE SHEET COVERINGS
+
+horizontal; to beds
+
+Fabric
+
+Reinforcement fabric mesh to B.S. 4483;
+reference A142; size 200 x 200mm; weighing
+2.22kg/m2;
+minimum
+laps
+400mm;
+no
+allowance in measurement for laps
+
+(Cont) CONCRETE WORK
+(Cont) REINFORCEMENT
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+20.00
+
+75.00
+
+10.00
+
+4.74
+
+4.74
+
+1,139.14
+
+20.00
+
+75.00
+
+50.00
+
+99.54
+
+426.60
+
+468.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+5.20
+
+Rate
+
+To Collection €
+
+nr
+
+nr
+
+nr
+
+m2
+
+m2
+
+m2
+
+Unit
+
+Description
+
+perimeter
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/6
+
+Miscellaneous air tightness requirements
+
+40mm
+thick;
+vertical;
+insulation externally
+
+180mm thick laid hortizontal
+
+Thermal; underfloor
+
+Quinn Therm QF insulation boards; flooring
+grade;
+laid
+on
+DPM;
+Architect's
+to
+specification
+
+IRONMONGERY, ACCESSORIES AND SUNDRIES
+
+WOODWORK
+
+not exceeding 225mm wide
+
+exceeding 225mm wide
+
+Damp proofing
+
+Damp proof courses; BS 6515 and IS 57;
+black polythene 2000 gauge; 150mm laps;
+bedding in cement lime mortar (1:1:6); in
+accordance
+with
+the
+manufacturers
+recommendations and the specification
+
+ANCILLARIES TO BRICKWORK AND BLOCKWORK
+
+215mm thick in trenches
+
+325mm thick in trenches
+
+Walls
+
+Solid concrete blocks; I.S.20; size 440 x
+215 x 100mm; compressive strength 5N/mm2;
+stretcher bond; in cement lime and sand
+mortar (1:1:6) type III as Engineers
+specification; pointing details to be
+agreed with architect onsite following
+sample details
+
+BLOCKWORK
+
+BRICKWORK AND BLOCKWORK: BLOCKWORK
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+1
+
+42
+
+90
+
+70
+
+25
+
+27
+
+29
+
+Qty
+
+200.00
+
+3.28
+
+27.95
+
+1.00
+
+3.00
+
+42.00
+
+6,017.26
+
+200.00
+
+137.76
+
+2,515.50
+
+70.00
+
+75.00
+
+1,134.00
+
+1,885.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+65.00
+
+Rate
+
+To Collection €
+
+item
+
+m
+
+m2
+
+m
+
+m2
+
+m2
+
+m2
+
+Unit
+
+Description
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/7
+
+1
+
+in
+
+vertical; short lengths
+
+pipework
+5
+
+diameter
+
+5
+
+5
+
+horizontal
+
+100mm
+internal
+trenches
+
+uPVC ducting, pipes and fittings to radon
+sumps
+
+Pipes
+
+nominal diameter of pipework 100mm
+
+Lean-mix concrete; 450mm wide x 300mm deep
+
+Vertical Casings
+
+nominal diameter of pipework 100mm
+
+Lean-mix concrete; 450mm wide x 300mm deep
+
+Beds & Surrounds
+
+average depth 0.5 - 1.0m
+
+Excavating Trenches
+
+7.00
+
+4.00
+
+12.58
+
+12.58
+
+To Collection €
+
+nr
+
+m
+
+m
+
+m
+
+192.80
+
+7.00
+
+20.00
+
+62.90
+
+62.90
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/8
+
+Ducts;
+through
+thick
+new
+325mm
+blockwork rising wall girth < or =
+1.00m; rectangular
+
+Forming holes for
+
+Forming / cutting holes to include all
+necessary
+building
+in
+of
+prestressed
+concrete lintols and making good in all
+trades
+
+Excavating trenches to receive pipes; pipe
+not exceeding 250mm nominal diameter;
+grading bottoms; trench side supports;
+backfilling
+with
+clause
+804
+stone
+material;
+compacting
+in
+layers
+not
+exceeding
+225mm
+thick;
+disposal
+of
+excavated material off site
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+SUNDRIES AND BUILDERS WORK
+
+40.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+8.00
+
+Rate
+
+BELOW GROUND
+
+m
+
+Unit
+
+MECHANICAL INSTALLATIONS
+
+5
+
+Qty
+
+DRAINAGE
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+2
+
+Qty
+
+120.00
+
+120.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+60.00
+
+Rate
+
+To Collection €
+
+nr
+
+Unit
+
+Description
+
+BQ/9
+
+12
+
+325mm thick; in chimneys
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+72
+
+370
+
+23
+
+46
+
+Qty
+
+100mm thick; in skins of cavity walls
+(rebuilding gable)
+
+100mm thick; in skins of cavity walls
+
+Walls
+
+Solid concrete blocks; I.S.20; size 440 x
+215 x 100mm; compressive strength 5N/mm2;
+stretcher bond; in cement lime and sand
+mortar (1:1:6) type III as Engineers
+specification; pointing details to be
+agreed with architect onsite following
+sample details
+
+BLOCKWORK
+
+BRICKWORK AND BLOCKWORK
+
+325 x 150mm
+
+Cills
+
+100mm wide x 65mm thick
+
+Lintels
+
+Spanlite lintel; bedding in gauged mortar;
+minimum bearing 200mm both sides
+
+PRECAST CONCRETE
+
+CONCRETE WORK
+
+It is assumed a 100mm blockwork inner
+leaf will be sufficient to carry the
+load of the precast concrete floor
+structure. Engineer to confirm
+
+(21) EXTERNAL WALLS
+
+E.D. Estimating
+
+23.00
+
+23.00
+
+30.00
+
+13.00
+
+11,454.00
+
+EXCL
+
+1,656.00
+
+8,510.00
+
+690.00
+
+598.00
+
+Amount
+
+(21) EXTERNAL WALLS
+Rate
+
+To Collection €
+
+m2
+
+m2
+
+m2
+
+m
+
+m
+
+Note
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/10
+
+dressing
+23
+
+jambs;
+cavity tray; girth 450mm;
+under and behind cills
+
+window
+
+32
+
+and
+
+35
+
+32
+
+36
+
+185
+
+Qty
+
+vertical; to door
+girth 225 - 450mm
+
+Damp proof courses
+
+"Hyload" or equivalent DPC to B.S. 7431
+black
+polythene
+2000
+gauge;
+to
+be
+installed
+in
+accordance
+with
+B.S.
+8215:1991 CP; 150mm laps; welded in
+accordance with maunfacturers instruction
+bedding in cement, lime and sand mortar
+
+200mm wide
+
+Closing cavities
+
+Closing cavities at top of with slate /
+block on flat
+
+200mm wide
+
+Closing cavities
+
+Closing cavities at ends with insulated
+proprietary closers; Xtratherm Close-R;
+additional wall ties at 225mm vertical
+centres; including 25mm thick expanded
+polystyrene fixed vertically
+
+200mm wide (rebuilding gable)
+
+200mm wide
+
+Forming cavities
+
+Forming
+cavities
+between
+new
+walls;
+stainless steel vertical twist fishtail
+wall ties to I.S. 268; building into 100mm
+blockwork/brickwork
+external
+leaf
+and
+100mm blockwork internal leaf; integral
+insulation
+retaining
+clip;
+Full-fill
+Eco-bead platinum insulation; Ancon Teplo
+Tie "Basalt Fibre" wall tiesfixing at
+maximium 750mm centres horizontally and
+450mm staggered centres vertically
+
+ANCILLARIES TO BRICKWORK/BLOCKWORK
+
+(Cont) BRICKWORK AND BLOCKWORK
+
+(21) EXTERNAL WALLS (Cont)
+
+E.D. Estimating
+
+5.00
+
+2.00
+
+14.00
+
+13.90
+
+28.68
+
+28.68
+
+7,452.08
+
+115.00
+
+64.00
+
+490.00
+
+444.80
+
+1,032.48
+
+5,305.80
+
+Amount
+
+(21) EXTERNAL WALLS
+Rate
+
+To Collection €
+
+m
+
+m
+
+m
+
+m
+
+m2
+
+m2
+
+Unit
+
+Description
+
+exceeding
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/11
+
+1
+
+1
+
+Allowance for chimney capping and pots
+
+Provisional
+sum
+for
+other
+repairs
+required regarding rebuidling gable wall
+
+9
+
+4
+
+Ventilation through external walls
+
+SUNDRIES
+
+L1/S S/K-90
+
+Lintels
+
+Steellite or similar galvanised insulated
+lintels; bedding in gauged mortar; minimum
+bearing 200mm both sides
+
+not
+35
+
+girth
+
+wallplate
+225mm
+
+level;
+
+23
+
+Qty
+
+lintol level; girth 450mm
+
+(Cont) BRICKWORK AND BLOCKWORK
+(Cont) ANCILLARIES TO BRICKWORK/BLOCKWORK
+(Cont) "Hyload" or equivalent DPC to B.S.
+7431 black polythene 2000 gauge; to be
+installed
+in
+accordance
+with
+B.S.
+8215:1991 CP; 150mm laps; welded in
+accordance with maunfacturers instruction
+bedding in cement, lime and sand mortar
+(Cont) Damp proof courses
+
+(21) EXTERNAL WALLS (Cont)
+
+E.D. Estimating
+
+1000.00
+
+100.00
+
+2.00
+
+2.00
+
+1,516.00
+
+1,000.00
+
+EXCL
+
+EXCL
+
+400.00
+
+70.00
+
+46.00
+
+Amount
+
+(21) EXTERNAL WALLS
+Rate
+
+To Collection €
+
+Sum
+
+item
+
+nr
+
+m
+
+m
+
+m
+
+Unit
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+extra over for
+abutments,
+T-junctions, fair ends, etc
+
+BQ/12
+
+angles,
+
+extra over for moisture resistant board
+
+extra over for door opes
+
+2450mm high
+
+Partitions
+
+44 x 100mm timber studs grade C16 at 400mm
+centres; faced both side with single layer
+12.5mm Standard plasterboard; 3mm skim
+both sides; Rockwool insulation between
+joists 100mm thick
+
+STUD PARTITIONS
+
+FLOOR, WALL AND CEILING FINISHES
+
+450mm thick in chimneys
+
+100mm thick
+
+Walls
+
+Solid concrete blocks; I.S.20; size 440 x
+215
+x
+100mm;
+compressive
+strength
+7.5N/mm2; stretcher bond; in cement lime
+and sand mortar (1:1:6) type III as
+Engineers specification; pointing details
+to
+be
+agreed
+with
+architect
+onsite
+following sample details
+
+BLOCKWORK
+
+BRICKWORK AND BLOCKWORK
+
+Fireback, fire gatherer, flue
+
+Sundries
+
+100mm wide x 65mm thick
+
+Lintels
+
+Precast concrete units; bedding in gauged
+mortar; minimum bearing 200mm both sides
+
+PRECAST CONCRETE
+
+CONCRETE WORK
+
+Description
+(22) INTERNAL WALLS
+
+E.D. Estimating
+
+m2
+
+20
+
+100.00
+
+3.00
+
+40.00
+
+169.81
+
+23.00
+
+600.00
+
+9.35
+
+7,002.81
+
+100.00
+
+60.00
+
+240.00
+
+4,415.06
+
+EXCL
+
+1,541.00
+
+600.00
+
+46.75
+
+Amount
+
+(22) INTERNAL WALLS
+Rate
+
+To Collection €
+
+item
+
+nr
+
+6
+
+1
+
+m
+
+m2
+
+m2
+
+item
+
+m
+
+Unit
+
+26
+
+7
+
+67
+
+1
+
+5
+
+Qty
+
+40.00
+
+Rate
+
+2,600.00
+
+Amount
+
+(23) FLOORS
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/13
+
+50mm as per Architects specification
+
+Insulation
+
+powerfloating
+
+Surface finishes
+
+SUNDRIES
+
+exceeding 300mm wide
+
+Floors
+
+Prepare and apply 75mm concrete screed
+(for
+underfloor
+heating
+system);
+Easyscreed or equal; all in accordance
+with
+the
+Engineers
+drawings
+and
+specifications
+
+cross sectional area not exceeding 0.10
+sq m ; fill voids behind pre-cast
+units; allow for tying reinforcement to
+screed
+
+Other Items - Edge Beam Infill
+
+Concrete fill; 35N10
+
+IN SITU CONCRETE
+
+150mm thick slab
+
+65
+
+65
+
+65
+
+3
+
+12.00
+
+3.00
+
+22.00
+
+175.00
+
+To Collection €
+
+m2
+
+m2
+
+m2
+
+m3
+
+5,530.00
+
+780.00
+
+195.00
+
+1,430.00
+
+525.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+H10 L Bar perimeter ties
+
+250 - 500 high
+
+BQ/14
+
+Edges of suspended slabs and landings; to
+screed
+
+Formwork generally
+
+FORMWORK
+
+Standard 1200g
+
+Polythene
+
+(Cont) CONCRETE WORK
+(Cont) SUNDRIES
+
+(23) FLOORS (Cont)
+
+E.D. Estimating
+
+Bar; links or the like
+m2
+
+Unit
+
+Floors
+65
+
+Qty
+
+REINFORCEMENT
+
+(23) FLOORS
+
+Description
+
+Precast concrete wide slab floor units;
+include hoisting units into position; all
+in accordance with the Architects &
+Engineers drawings and specification, to
+contractors design to meet loads specified
+by
+Engineer,
+to
+include
+intumescent
+filling
+between
+units;
+all
+necessary
+temporary
+supports
+and
+propping
+as
+required, to include all fixings, dowel
+bars,
+drilling,
+shelf
+supports
+etc
+required to install floor units; all in
+accordance with Engineers drawings and
+specification
+
+PRECAST CONCRETE
+
+CONCRETE WORK
+
+E.D. Estimating
+
+0.5
+
+33
+
+65
+
+Qty
+
+995.00
+
+14.00
+
+2.00
+
+Rate
+
+To Collection €
+
+t
+
+item
+
+m2
+
+Unit
+
+1,089.50
+
+497.50
+
+462.00
+
+130.00
+
+Amount
+
+(23) FLOORS
+
+E.D. Estimating
+(27) ROOFS
+
+Description
+
+and
+
+fitted;
+
+2nr.
+
+quarter
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+New
+
+Stairs
+
+BQ/15
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+Supplied
+landings
+
+Stairs
+
+1
+
+350.00
+
+To Collection €
+
+item
+
+9,350.00
+
+350.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+250mm thick
+
+Insulation; thermal
+
+BQ/16
+
+Rockwool or similar; 2nr. layers of 150 +
+100mm thick laid perpindicular; 1st layer
+fitted between joists; second layer fitted
+over joists
+
+IRONMONGERY, ASSESSORIES AND SUNDRIES
+
+exceeding 300mm wide (50% of area)
+
+Floors; attic floor
+
+18mm thick plywood sheeting fixed to joists
+
+BOARDING AND SECOND FIXINGS
+
+Framing for water tanks
+
+44 x 225mm in bridging
+
+44 x 225mm in ceiling joists at 400mm
+centres
+
+44 x 225mm in ridge boards
+
+50 x 175mm in rafters at 400mm centres
+
+75 x 100mm in wall plate
+
+Carcassing; main roof
+
+White deal, Grade C16; sawn; pressure
+impregnated
+with
+preservative;
+in
+accordance with the specification
+
+STRUCTURAL AND FIRST FIXINGS
+
+9,000.00
+
+Amount
+
+(24) STAIRS
+
+New stairs in oakl with oak balustrade and
+solid oak hardwood handrail and newel
+posts; glazed balustrade
+
+9000.00
+
+Rate
+
+WOODWORK
+
+item
+
+Unit
+
+COMPOSITE ITEMS
+
+1
+
+Qty
+
+PITCHED ROOF
+
+(24) STAIRS
+
+Description
+
+WOODWORK
+
+E.D. Estimating
+
+65
+
+33
+
+1
+
+54
+
+161
+
+11
+
+250
+
+35
+
+Qty
+
+14.00
+
+19.00
+
+150.00
+
+10.19
+
+8.69
+
+12.00
+
+8.21
+
+12.50
+
+Rate
+
+To Collection €
+
+m2
+
+m2
+
+item
+
+m
+
+m
+
+m
+
+m
+
+m
+
+Unit
+
+(27) ROOFS
+
+6,258.35
+
+910.00
+
+627.00
+
+150.00
+
+550.26
+
+1,399.09
+
+132.00
+
+2,052.50
+
+437.50
+
+Amount
+
+Description
+
+65
+
+ex 50 x 100mm in firring pieces
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+exceeding 300mm wide
+
+Coverings
+
+BQ/17
+
+18mm WBP plywood; fixed to timber framework
+
+26
+
+22
+
+44 x 225mm in bridging
+
+BOARDING AND SECOND FIXINGS
+
+65
+
+1
+
+44 x 200mm in joists
+
+Carcassing
+
+White deal, Grade C16; sawn; pressure
+impregnated
+with
+preservative;
+in
+accordance with the specification
+
+STRUCTURAL AND FIRST FIXINGS
+
+WOODWORK
+
+FLAT ROOF
+
+Miscellaneous plates and fixings
+
+Sundries
+
+750 x 1250
+
+1
+
+19.50
+
+5.50
+
+9.28
+
+7.78
+
+150.00
+
+300.00
+
+To Collection €
+
+m2
+
+m
+
+m
+
+m
+
+item
+
+nr
+
+(27) ROOFS
+
+2,216.86
+
+507.00
+
+357.50
+
+204.16
+
+505.70
+
+150.00
+
+300.00
+
+192.50
+
+Amount
+
+Description
+
+IRONMONGERY, ASSESSORIES AND SUNDRIES
+
+not exceeding 300mm wide
+
+Upstands / Fascia
+
+extra over for vapour barrier
+
+(Cont) WOODWORK
+(Cont) BOARDING AND SECOND FIXINGS
+(Cont) 18mm WBP plywood; fixed to timber
+framework
+(Cont) Coverings
+
+(27) ROOFS (Cont)
+
+E.D. Estimating
+
+TP10
+
+insulation
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/18
+
+Allow to form dormer walls, cheeks,
+face, etc in 175 x 50mm studwork;
+insulated fully with Rockwool mineral
+wool;
+vapour
+check
+and
+18mm
+OSB
+externally
+to
+take
+render
+finish
+(measured elsewhere); 72.5mm Quinntherm
+insulated dry-lining internally with
+Intello Plus breather membrane; 3mm skim
+
+COMPOSITE ITEM
+
+FEATURE PROJECTION
+
+Sundry insulation at junctions / valleys
+
+SUNDRIES
+
+150mm thick
+
+Insulation; Thermal
+
+Kingspan
+Thermapitch
+between joists
+
+Miscellaneous plates and connections,
+joist hangers, skylight brackets
+
+Accessories
+
+5.50
+
+Rate
+
+Access Hatch
+
+nr
+
+Unit
+
+Galvanised fixings
+
+insulated
+
+35
+
+Qty
+
+Wellhofer
+airtighty
+hatch;
+complete with access ladder
+
+Wall plate straps
+
+Strap;
+approved
+standard
+Lshaped
+pattern; 30 x 5 x 1000mm long flat
+section; fixed at a maximum of 1200mm
+centres; once bent; nailed to wallplate,
+plugged and screwed to blockwork/concrete
+backgrounds
+
+(Cont) WOODWORK
+(Cont) IRONMONGERY, ASSESSORIES AND SUNDRIES
+
+(27) ROOFS (Cont)
+
+E.D. Estimating
+
+1
+
+1
+
+26
+
+1
+
+53
+
+26
+
+Qty
+
+1500.00
+
+200.00
+
+24.79
+
+300.00
+
+8.58
+
+6.00
+
+Rate
+
+To Collection €
+
+item
+
+item
+
+m2
+
+item
+
+m
+
+m2
+
+Unit
+
+(27) ROOFS
+
+3,255.28
+
+1,500.00
+
+200.00
+
+644.54
+
+300.00
+
+454.74
+
+156.00
+
+Amount
+
+(28) FRAME
+Description
+(31) EXTERNAL WALL COMPLETIONS
+
+E.D. Estimating
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+25kg/m
+50kg/m
+(provisional)
+
+UC / UB / SHS
+
+member
+
+BQ/19
+
+profile
+1.5
+
+2750.00
+
+To Collection €
+
+tonne
+
+4,385.00
+
+4,125.00
+
+32mm
+
+thick
+
+window
+
+board
+
+with
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Window boards
+
+BQ/20
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+175mm deep
+
+Softwood;
+moulding
+
+BOARDING AND SECOND FIXINGS
+
+WOODWORK
+
+Supplied and fitted
+
+Airtightness
+
+Isocell Airstop Flex airtight membranes;
+fixed to all junctions of cill, head and
+reveals
+
+Special attendances
+
+FABRICATED MEMBERS
+
+Structural steelwork; in accordance with
+Structural Engineers Specification notes
+and
+Structural
+Engineers
+drawings;
+including all necessary fixings,welding,
+bolting
+and
+drilling;
+including
+all
+necessary corrosion protection; all in
+accordance with the Engineers Drawings and
+Specification
+
+General attendances
+
+Overheads and profit
+
+Supplied and fitted
+
+STRUCTURAL STEELWORK
+
+215 x 215 x 440mm
+
+Bearing pads
+
+Windows and doors
+
+Allow a PC Sum of €25,000 for the supply
+and fit of external windows and doors
+
+260.00
+
+Amount
+
+Reinforced in-situ concrete; Grade C30N
+/37U.N.O. to BS8110; vibrated; as per
+Engineer's
+specification;
+formwork
+as
+required
+
+65.00
+
+Rate
+
+DOUBLE GLAZED JOINERY
+
+nr
+
+Unit
+
+IN-SITU CONCRETE
+
+4
+
+Qty
+
+EXTERNAL WINDOWS AND DOORS
+
+(28) FRAME
+
+Description
+
+CONCRETE WORK
+
+E.D. Estimating
+
+23
+
+23
+
+1
+
+1
+
+1
+
+0.1
+
+1
+
+Qty
+
+7.00
+
+16.00
+
+350.00
+
+25000.00
+
+25000.00
+
+To Collection €
+
+m
+
+m
+
+item
+
+item
+
+item
+
+%
+
+Sum
+
+Rate
+
+28,379.00
+
+161.00
+
+368.00
+
+350.00
+
+INCL
+
+INCL
+
+2,500.00
+
+25,000.00
+
+Amount
+
+(31) EXTERNAL WALL COMPLETIONS
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Second fixings
+
+BQ/21
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+185
+
+5.00
+
+100.00
+
+350.00
+
+400.00
+
+235.00
+
+9.00
+
+To Collection €
+
+m
+
+nr
+
+4
+
+extra over for glazed (GF)
+
+sliding
+nr
+
+door
+2
+
+pocket
+
+extra over for
+system
+
+nr
+
+nr
+
+m
+
+1
+
+12
+
+123
+
+extra over for full height glazed side
+panel to kitchen
+
+single; 900 x 2100mm
+
+Doors
+
+Four-panel single door; allow a PC Sum of
+€125 for supply of door; allow a PC Sum of
+€25 for ironmongery; pre-finished
+
+COMPOSITE ITEMS
+
+75 x 16mm
+
+Architraves
+
+MDF; square edge profile; fixed to foor
+frame
+
+BOARDING AND SECOND FIXINGS
+
+6,848.00
+
+925.00
+
+400.00
+
+700.00
+
+400.00
+
+2,820.00
+
+1,107.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Profit on last
+
+4750 x 1200mm
+
+BQ/22
+
+Fixed flat rooflights laid to 5 degrees
+fall
+
+Door frames
+
+100 x 50mm
+
+Allow a PC Sum of €4,000 for supply and
+fit of triple glazed rooflight by Ruhm or
+similar approved
+
+White deal, Grade C16; sawn; pressure
+impregnated
+with
+preservative;
+in
+accordance with the specification
+
+496.00
+
+Description
+(37) ROOF COMPLETIONS
+
+E.D. Estimating
+
+NON-STRUCTURAL
+
+8.00
+
+Amount
+
+STRUCTURAL AND FIRST FIXINGS
+
+m
+
+Rate
+
+(32) INTERNAL WALL COMPLETIONS
+Unit
+
+METALWORK
+
+62
+
+Qty
+
+WOODWORK
+
+(32) INTERNAL WALL COMPLETIONS
+
+E.D. Estimating
+
+0.1
+
+1
+
+Qty
+
+4000.00
+
+4000.00
+
+4,400.00
+
+400.00
+
+4,000.00
+
+Amount
+
+(37) ROOF COMPLETIONS
+Rate
+
+To Collection €
+
+%
+
+Sum
+
+Unit
+
+Description
+
+5,180.00
+
+Amount
+
+Description
+(41) EXTERNAL WALL FINISHES (Cont)
+
+E.D. Estimating
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Plinth
+
+not exceeding 300mm wide
+
+Reveals
+
+exceeding 300mm wide
+
+Walls
+
+BQ/23
+
+Prepare;
+Dulux
+or
+other
+equal
+and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+
+PAINTING
+
+PAINTING AND DECORATING
+
+not exceeding 300mm wide
+
+Plinth
+
+not exceeding 300mm wide
+
+57
+
+109
+
+221
+
+35
+
+48
+
+6.00
+
+5.00
+
+10.00
+
+14.00
+
+12.00
+
+28.00
+
+To Collection €
+
+m
+
+m
+
+m2
+
+m
+
+m
+
+m2
+
+10
+
+extra over for work to chimneys
+
+Reveals
+
+m2
+
+(rebuilding
+36
+
+wide
+
+exceeding
+300mm
+existing gable)
+
+exceeding 300mm wide
+
+Walls
+
+Sand and cement finish; 25mm thick cement
+and sand render in three number coats;
+scud
+coat
+in
+sand
+1:3;
+cement
+and
+containing approved bonding agent applied
+in
+accordance
+with
+manufacturers
+instructions; two coat cement sand lime
+1:1:6; including approved waterproofer; to
+blockwork wall; externally
+
+10,351.00
+
+342.00
+
+545.00
+
+2,210.00
+
+490.00
+
+576.00
+
+EXCL
+
+1,008.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/24
+
+Allow a provisional sum of €2,000 for
+metal cladding finish to feature bay
+window
+
+SUNDRIES
+
+28.00
+
+Rate
+
+(41) EXTERNAL WALL FINISHES
+
+INSITU FINISHES
+
+m2
+
+Unit
+
+(Cont) PAINTING AND DECORATING
+
+185
+
+Qty
+
+FLOOR, WALL AND CEILING FINISHINGS
+
+(41) EXTERNAL WALL FINISHES
+
+E.D. Estimating
+
+1
+
+Qty
+
+2000.00
+
+Rate
+
+2,000.00
+
+2,000.00
+
+Amount
+
+(41) EXTERNAL WALL FINISHES
+
+To Collection €
+
+Sum
+
+Unit
+
+Description
+
+(rebuilding
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+exceeding 300mm wide
+
+Walls
+
+BQ/25
+
+Prepare;
+Dulux
+or
+other
+equal
+and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+
+PAINTING
+
+PAINTING AND DECORATING
+
+exceeding 300mm wide
+
+Wall tiles
+
+Allow a PC Sum of €25/m2 for the supply of
+tiles, adhesive and grout; contractor to
+allow for all labour and trims
+
+TILE, SLAB AND MOSAIC FINISHES
+
+not exceeding 300 wide
+
+Reveals
+
+wide
+
+307
+
+43
+
+48
+
+36
+
+149
+
+exceeding 300mm wide (internal face of
+external walls)
+
+exceeding
+300mm
+existing gable)
+
+111
+
+(internal
+
+Qty
+
+exceeding
+300mm
+wide
+blockwork walls only)
+
+Walls
+
+In-situ finishes; sand and cement finish;
+12.5mm thick cement and sand render in two
+number coats; scud coat in cement and sand
+1:3; containing approved bonding agent
+applied in accordance with manufacturers
+instructions; one coat cement sand lime
+1:1:6; including approved waterproofer; to
+blockwork base
+
+INSITU FINISHES
+
+FLOOR, WALL AND CEILING FINISHES
+
+(42) INTERNAL WALL FINISHES
+
+E.D. Estimating
+
+6.00
+
+60.25
+
+7.00
+
+16.50
+
+16.50
+
+16.50
+
+Rate
+
+9,652.75
+
+1,842.00
+
+2,590.75
+
+336.00
+
+594.00
+
+2,458.50
+
+1,831.50
+
+Amount
+
+(42) INTERNAL WALL FINISHES
+
+To Collection €
+
+m2
+
+m2
+
+m
+
+m2
+
+m2
+
+m2
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+BQ/26
+
+(Cont) PAINTING AND DECORATING
+(Cont) PAINTING
+(Cont) Prepare; Dulux or other equal and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+(Cont) Walls
+
+(42) INTERNAL WALL FINISHES (Cont)
+
+E.D. Estimating
+
+48
+
+Qty
+
+3.75
+
+Rate
+
+180.00
+
+180.00
+
+Amount
+
+(42) INTERNAL WALL FINISHES
+
+To Collection €
+
+m
+
+Unit
+
+Description
+
+moulded
+
+profile;
+
+plugged
+
+and
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Skirtings
+
+BQ/27
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+exceeding 300mm wide
+
+Floor tiles
+
+Allow a PC Sum of €60/m2 for the supply of
+tiles, adhesive and grout; contractor to
+allow for all labour and trims
+
+TILE, SLAB AND MOSAIC FINISHES
+
+FLOOR, WALL AND CEILING FINISHES
+
+25 x 125mm high
+
+Second fixings
+
+Pine/MDF;
+screwed
+
+exceeding 300mm wide
+
+Floors
+
+99
+
+59
+
+99
+
+5.00
+
+102.60
+
+11.00
+
+To Collection €
+
+m
+
+m2
+
+m
+
+14,887.20
+
+495.00
+
+6,053.40
+
+1,089.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+exceeding 300mm wide
+
+Ceilings
+
+BQ/28
+
+Plaster; to plasterboard base; skim coat
+of Gypweld bonding plaster; 3mm thick;
+single coat; trowelled
+
+154
+
+26
+
+extra over for providing one layer of
+Pro-Clima Intello Plus airtightness
+membrane to all ceilings; include for
+all necessary seals
+IN-SITU FINISHES
+
+26
+
+128
+
+64
+
+64
+
+Qty
+
+exceeding 300mm wide; sloping
+
+Ceilings
+
+Quinntherm Kraft 72.5mm thick insulated
+plasterboard; butt joints; tape and fill
+joints; fixing to timber grounds with
+mushroom fixings as required; all in
+accordance
+with
+manufacturers
+recommendations
+
+extra over for providing one layer of
+Pro-Clima Intello Plus airtightness
+membrane to all ceilings; include for
+all necessary seals
+
+exceeding 300mm wide; horizontal (1F)
+
+exceeding 300mm wide; horizontal (GF)
+
+Ceilings
+
+Standard 12.5mm thick plasterboard and
+insulation; butt joints; tape and fill
+joints; fixing to timber grounds
+
+Allow a PC Sum of €60 euros per m2 for the
+supply of engineered timber flooring;
+contractor to fit and provide underlay and
+glue where required
+
+7,249.80
+
+Description
+(45) CEILING FINISHES
+
+E.D. Estimating
+
+BOARD FINSHES
+
+84.30
+
+Amount
+
+(43) FLOOR FINISHES
+Rate
+
+BOARDING AND SECOND FIXINGS
+
+m2
+
+Unit
+
+FLOOR, WALL AND CEILING FINISHINGS
+
+86
+
+Qty
+
+WOODWORK
+
+(43) FLOOR FINISHES
+
+E.D. Estimating
+
+9.50
+
+6.00
+
+20.00
+
+6.00
+
+9.50
+
+9.50
+
+4,123.00
+
+1,463.00
+
+156.00
+
+520.00
+
+768.00
+
+608.00
+
+608.00
+
+Amount
+
+(45) CEILING FINISHES
+Rate
+
+To Collection €
+
+m2
+
+m2
+
+m2
+
+m2
+
+m2
+
+m2
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+exceeding 300mm wide
+
+Ceilings
+
+BQ/29
+
+To Collection €
+
+924.00
+
+45
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Soakers and trays to chimneys
+
+Flashings
+
+Leadwork; code 5
+
+ridge cappings
+
+Ridges/Hips
+
+Lagan Elite range
+
+sloping; not exceeding
+exceeding 300mm wide
+
+Coverings
+
+BQ/30
+
+degrees;
+
+Lagan Building Systems 450x290mm 'Snowdon'
+slate-effect clay roof tiles; on and
+including 44x25 impregnated battens @
+double-fixed
+350mm
+centres
+with
+non-ferrous nails; on Tegral Ventex HT
+spun-bonded polyester underlay with min.
+150mm laps, with 50mm clear ventilation
+gap below; laid over rafters
+
+SLATE AND TILE COVERINGS
+
+1
+
+11
+
+100
+
+41
+
+extra over for
+Glidevale
+RV
+rafter
+ventilators at appropriate centres
+ROOFING CLADDING AND WATERPROOFING
+
+41
+
+41
+
+Qty
+
+not exceeding 300mm wide
+
+Soffit
+
+not exceeding 300mm wide
+
+Fascia
+
+Powdercoated aluminium; white; fixed to
+and including 19mm WBP plywood fixed to
+rafters
+
+BOARDING AND SECOND FIXINGS
+
+Prepare;
+Dulux
+or
+other
+equal
+and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+
+924.00
+
+Description
+(47) ROOF FINISHES
+
+E.D. Estimating
+
+WOODWORK
+
+6.00
+
+Amount
+
+(45) CEILING FINISHES
+Rate
+
+PAINTING
+
+m2
+
+Unit
+
+PITCHED ROOF
+
+154
+
+Qty
+
+PAINTING AND DECORATING
+
+(45) CEILING FINISHES (Cont)
+
+E.D. Estimating
+
+350.00
+
+29.85
+
+46.00
+
+5.00
+
+25.90
+
+7,607.15
+
+350.00
+
+328.35
+
+4,600.00
+
+205.00
+
+1,061.90
+
+1,061.90
+
+Amount
+
+(47) ROOF FINISHES
+
+25.90
+
+Rate
+
+To Collection €
+
+item
+
+m
+
+m2
+
+m
+
+m
+
+m
+
+Unit
+
+Description
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Forming gutters or outlets
+
+Sundries
+
+not exeeding 300mm girth
+
+Fascia / Upstand
+
+BQ/31
+
+1
+
+53
+
+300.00
+
+46.00
+
+To Collection €
+
+item
+
+m
+
+5,741.00
+
+300.00
+
+2,438.00
+
+Hopperheads
+
+Coverings
+
+exceeding 300mm wide
+
+75mm round with fixings
+
+22
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/32
+
+Allow a provisional sum of €2000 for
+below ground draiange
+
+DISPOSAL BELOW GROUND
+
+FOUL WATER DRAINAGE
+
+Allow a provisional sum of €4000 for
+rainwater harvesting tank pumped back
+to attic
+
+Allow a provisional sum of €2000 for
+below ground draiange
+
+DISPOSAL BELOW GROUND
+
+shoe
+
+off sets
+
+Downpipes
+
+1
+
+1
+
+1
+
+4
+
+2
+
+2
+
+18
+
+4
+
+lengths;
+
+stop ends
+
+running
+2
+
+in
+
+black
+
+Qty
+
+75mm outlets
+
+125mm diameter;
+half round
+
+Gutters
+
+Standing
+Seam
+Pre
+Weathered
+Patina
+Rheinzinc preweatherd pro 0.7mm thick;
+centres fixed with stainless steel clips
+and nails at 300 centres on and including
+sepadeck isolating membrane; including
+joints on and including 75 x 50 firring
+pieces fixed all in accordance with
+manufacturers
+instructions
+www.rheinzinc.co.uk.
+insect
+mesh
+as
+required;
+150mm
+Xtratherm
+XT/PR
+Note
+contractor to use approved contractor All in strict accordance with Architects
+drawings and specifications
+
+Alumasc or similar; powdercoated
+seamless aluminium rainwater goods
+
+FLEXIBLE METAL SHEETING
+
+(52) DRAINAGE AND REFUSE DISPOSAL
+
+E.D. Estimating
+
+DISPOSAL ABOVE GROUND
+
+3,003.00
+
+Amount
+
+(47) ROOF FINISHES
+
+115.50
+
+Rate
+
+ROOFING CLADDING AND WATERPROOFING
+
+m2
+
+Unit
+
+SURFACE WATER DRAINAGE
+
+26
+
+Qty
+
+FLAT ROOF
+
+(47) ROOF FINISHES (Cont)
+
+E.D. Estimating
+
+2000.00
+
+4000.00
+
+2000.00
+
+22.00
+
+60.00
+
+150.00
+
+45.00
+
+15.00
+
+30.00
+
+45.00
+
+Rate
+
+To Collection €
+
+Sum
+
+Sum
+
+Sum
+
+nr
+
+nr
+
+nr
+
+m
+
+nr
+
+nr
+
+m
+
+Unit
+
+10,428.00
+
+2,000.00
+
+4,000.00
+
+2,000.00
+
+88.00
+
+120.00
+
+300.00
+
+810.00
+
+60.00
+
+60.00
+
+990.00
+
+Amount
+
+(52) DRAINAGE AND REFUSE DISPOSAL
+
+Description
+
+14000.00
+
+14,000.00
+
+Description
+(69) ELECTRICAL INSTALLATION
+
+E.D. Estimating
+
+1
+0.1
+
+1
+1
+
+Allow a PC Sum of €4,500 for the solar
+installation complete
+
+profit
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+general and special attendances
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/33
+
+Builders work in association with the
+mechanical installation
+1
+
+1
+
+Allow a PC Sum of €6,000 for the heat
+recovery ventilation complete
+
+BUILDERS WORK
+
+1
+
+Allow a PC Sum of €14,000 for
+mechanical installation complete
+
+350.00
+
+24500.00
+
+4500.00
+
+6000.00
+
+To Collection €
+
+Item
+
+Item
+
+item
+
+%
+
+Sum
+
+Sum
+
+27,300.00
+
+350.00
+
+INCL
+
+INCL
+
+2,450.00
+
+4,500.00
+
+6,000.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/34
+
+Builders work in association with the
+electrical installation
+
+BUILDERS WORK
+
+250.00
+
+9000.00
+
+9000.00
+
+To Collection €
+
+Item
+
+Item
+
+%
+
+Sum
+
+general and special attendances
+
+1
+
+0.1
+
+1
+
+Rate
+
+10,150.00
+
+250.00
+
+900.00
+
+9,000.00
+
+Amount
+
+(69) ELECTRICAL INSTALLATION
+Unit
+
+item
+
+the
+
+Qty
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+profit
+
+Allow a PC Sum of €9,000 for
+electrical installation complete
+
+PC SUM
+
+Sum
+
+Amount
+
+PC SUM
+
+the
+
+Rate
+
+(59) MECHANICAL INSTALLATION
+Unit
+
+ELECTRICAL INSTALLATION
+
+Qty
+
+MECHANICAL INSTALLATION
+
+(59) MECHANICAL INSTALLATION
+
+E.D. Estimating
+
+BUILDING FITTINGS
+
+0.1
+
+profit
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/35
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+three thousand euro
+
+Stove and fire surround
+
+5000.00
+
+5000.00
+
+4000.00
+
+4000.00
+
+2000.00
+
+2000.00
+
+10000.00
+
+10000.00
+
+23,100.00
+
+500.00
+
+5,000.00
+
+400.00
+
+4,000.00
+
+200.00
+
+2,000.00
+
+1,000.00
+
+10,000.00
+
+Amount
+
+(79) BUILDING FITTINGS
+Rate
+
+To Collection €
+
+item
+
+%
+
+Sum
+
+Item
+
+general and special attendances
+
+%
+
+item
+
+0.1
+
+profit
+
+Sum
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+two thousand euro
+
+Wardrobes
+
+Item
+
+general and special attendances
+
+%
+
+item
+
+0.1
+
+profit
+
+Sum
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+two thousand and five hundred euro
+
+Utility Joinery
+
+Item
+
+general and special attendances
+
+%
+
+item
+
+0.1
+
+profit
+
+Sum
+
+Unit
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+Qty
+
+seven thousand euro
+
+Kitchen Joinery
+
+Provide the following Prime Cost Sum for
+works to be carried out by a Nominated
+Sub-Contractor; Supply & Fit
+
+PC SUMS
+
+Description
+
+(79) BUILDING FITTINGS
+
+E.D. Estimating
+Description
+
+(fitting
+
+included
+
+in
+
+other
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+general and special attendances
+
+BQ/36
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+profit
+
+three thousand five hundred euro
+
+Sanitary ware
+
+Supply only
+trades)
+
+Window seats or any other specialist
+joinery
+
+Curtains/Curtain Rails
+
+Furniture and loose fittings
+
+White goods
+
+Sundries
+
+general and special attendances
+
+(Cont) BUILDING FITTINGS
+(Cont) PC SUMS
+(Cont) Provide the following Prime Cost
+Sum for works to be carried out by a
+Nominated Sub-Contractor; Supply & Fit
+(Cont) Stove and fire surround
+
+(79) BUILDING FITTINGS (Cont)
+
+E.D. Estimating
+
+0.1
+
+1
+
+Qty
+
+9000.00
+
+9000.00
+
+EXCL
+
+EXCL
+
+EXCL
+
+EXCL
+
+9,900.00
+
+900.00
+
+9,000.00
+
+Amount
+
+(79) BUILDING FITTINGS
+Rate
+
+To Collection €
+
+Item
+
+item
+
+%
+
+Sum
+
+item
+
+item
+
+item
+
+item
+
+Item
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/37
+
+Allow a provisional sum of €7,000 for
+external works yet to be detailed
+
+PROVISIONAL SUM
+
+EXTERNAL WORKS
+
+(40) EXTERNAL WORKS
+
+E.D. Estimating
+
+1
+
+Qty
+
+7000.00
+
+7,000.00
+
+7,000.00
+
+Amount
+
+(40) EXTERNAL WORKS
+Rate
+
+To Collection €
+
+Sum
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Amount from summary level.
+
+Subtotal Excl. VAT - House
+
+E.D. Estimating
+
+BQ/38
+
+Qty
+
+Rate
+
+NIL
+
+282,874.00
+
+Amount
+
+Subtotal Excl. VAT - House
+
+To Collection €
+
+Unit
+
+2
+1
+3
+1
+1
+
+Skips and the like
+
+Insurances
+
+Supervision
+
+Cleaning
+
+Security
+
+BQ/39
+
+1
+
+Plant & Machinery
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+1
+
+Scaffolding
+
+750.00
+
+250.00
+
+600.00
+
+400.00
+
+500.00
+
+500.00
+
+1200.00
+
+EXCL
+
+6,200.00
+
+750.00
+
+250.00
+
+1,800.00
+
+400.00
+
+1,000.00
+
+500.00
+
+1,200.00
+
+300.00
+
+Amount
+
+(00) PRELIMINARIES
+
+300.00
+
+Rate
+
+To Collection €
+
+item
+
+item
+
+months
+
+item
+
+nr
+
+item
+
+item
+
+item
+
+1
+
+utility
+
+Health & Safety
+
+and
+
+Unit
+
+Item
+
+Fees
+
+Qty
+
+Local
+Authority
+connections
+
+PRELIMINARIES
+
+Description
+
+(00) PRELIMINARIES
+
+E.D. Estimating
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/40
+
+blinding filling; levelling with sand;
+50mm thick; compacted
+
+Surface treatments
+
+average thickness greater than 250mm
+
+Sides of foundations
+
+average thickness not exceeding 250mm
+
+to make up levels
+
+Hardcore Clause 804 or equal approved
+material in accordance with Engineer's
+Specification; depositing and compacting
+in layers 150mm maximum thickness
+
+FILLING
+
+excavated material; off site
+
+26
+
+3
+
+7
+
+21
+
+2.50
+
+38.00
+
+38.00
+
+33.00
+
+6.00
+
+16.00
+
+12.00
+
+1,562.00
+
+65.00
+
+114.00
+
+266.00
+
+693.00
+
+30.00
+
+INCL
+
+INCL
+
+208.00
+
+96.00
+
+90.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+3.00
+
+Rate
+
+To Collection €
+
+m2
+
+m3
+
+m3
+
+m3
+
+m3
+
+topsoil; on site in temporary
+heaps for re-use elsewhere
+
+5
+
+item
+
+water; ground
+
+m3
+
+m3
+
+m2
+
+Unit
+
+item
+
+spoil
+
+13
+
+8
+
+30
+
+Qty
+
+water; surface
+
+Disposal
+
+not exceeding 2.0m deep
+
+Trenches
+
+not exceeding 2.0m deep
+
+Reduced levels
+
+150mm deep
+
+Stip topsoil
+
+Excavation generally
+
+EXCAVATION
+
+EXCAVATION AND EARTHWORK
+
+(19) SUBSTRUCTURE
+
+E.D. Estimating
+
+Description
+
+Description
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+horizontal; to beds
+
+Fabric
+
+BQ/41
+
+Reinforcement fabric mesh to B.S. 4483;
+reference A142; size 200 x 200mm; weighing
+2.22kg/m2;
+minimum
+laps
+400mm;
+no
+allowance in measurement for laps
+
+horizontal; to foundations
+
+Fabric
+
+Reinforcing fabric mesh shall be high
+yield reinforcing fabric to B.S. 4483 in
+accordance
+with
+the
+engineer's
+specification; reference A393; size 200 x
+200mm; weighing 6.16kg/m2; minimum laps
+400mm; no allowance in measurement for
+laps; fixed in position with and including
+all necessary laps, spacers, chairs and
+tying wire
+
+REINFORCEMENT
+
+to concrete slab
+
+26
+
+14
+
+26
+
+5.20
+
+9.97
+
+2.50
+
+To Collection €
+
+m2
+
+m2
+
+m2
+
+1,279.78
+
+135.20
+
+139.58
+
+65.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+extra over for monarflex
+approved vent caps
+
+or
+
+BQ/42
+
+equally
+
+100 outlets/inlets; square 600 x 600
+
+Radon sump; bedding in compacted hardcore
+with sand blinding
+
+Monarflex
+or
+equal
+approved
+depressurisation sumps, PVC proprietary
+collection
+box,
+centrally
+located
+as
+indicated on the floor plans; include for
+protection of radon sump from works over,
+method at contractor's discretion
+
+extra over for lapping/sealing around
+popups including tophats; irrespective
+of size
+
+Damp proofing
+
+Surface Finishes
+
+480.00
+
+vertically; exceeding 300mm wide
+
+120.00
+
+Float finish
+
+m3
+horizontal; exceeding 300mm wide
+
+4
+
+PROOF
+
+"RMB Monarflex" RMB 400 or 1200 Visqueen
+or equal and approved radon barrier Irish
+Agrement Board Certificate No. 98/0075 3rd print: 1999-11-05; laid strictly in
+accordance
+with
+the
+manufacturers
+instructions on blinded hardcore base; no
+allowance for laps
+
+GAS
+
+SUNDRIES
+
+exceeding 150mm thick; reinforced
+
+Beds
+
+exceeding 150mm thick; reinforced
+
+Foundations
+
+Reinforced in-situ concrete; Grade C35N20;
+vibrated; as per Engineer's specification
+
+MASTIC ASPHALT, WATERPROOF AND
+NON-METAL FLEXIBLE SHEET COVERINGS
+
+460.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+115.00
+
+Rate
+
+IN-SITU CONCRETE
+
+m3
+
+Unit
+
+(Cont) CONCRETE WORK
+
+4
+
+Qty
+
+CONCRETE WORK
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+1
+
+1
+
+3
+
+10
+
+26
+
+Qty
+
+20.00
+
+75.00
+
+10.00
+
+4.74
+
+295.64
+
+20.00
+
+75.00
+
+30.00
+
+47.40
+
+123.24
+
+Amount
+
+(19) SUBSTRUCTURE
+
+4.74
+
+Rate
+
+To Collection €
+
+nr
+
+nr
+
+nr
+
+m2
+
+m2
+
+Unit
+
+Description
+
+Description
+
+726.70
+
+15.00
+
+100mm
+internal
+trenches
+
+diameter
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/43
+
+Miscellaneous air tightness requirements
+1
+
+21
+
+40mm
+thick;
+vertical;
+insulation externally
+
+perimeter
+
+26
+
+180mm thick laid hortizontal
+
+100.00
+
+3.28
+
+To Collection €
+
+item
+
+m
+
+1,578.58
+
+100.00
+
+68.88
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+in
+
+BQ/44
+
+pipework
+
+uPVC ducting, pipes and fittings to radon
+sumps
+
+Pipes
+
+vertical; short lengths
+27.95
+
+1.00
+
+nominal diameter of pipework 100mm
+
+Thermal; underfloor
+m2
+
+m
+
+18.00
+
+horizontal
+
+15
+
+3.00
+
+Quinn Therm QF insulation boards; flooring
+grade;
+laid
+on
+DPM;
+Architect's
+to
+specification
+
+IRONMONGERY, ACCESSORIES AND SUNDRIES
+
+WOODWORK
+
+not exceeding 225mm wide
+
+m2
+
+Lean-mix concrete; 450mm wide x 300mm deep
+
+Damp proofing
+6
+
+Vertical Casings
+
+exceeding 225mm wide
+
+Lean-mix concrete; 450mm wide x 300mm deep
+
+Damp proof courses; BS 6515 and IS 57;
+black polythene 2000 gauge; 150mm laps;
+bedding in cement lime mortar (1:1:6); in
+accordance
+with
+the
+manufacturers
+recommendations and the specification
+nominal diameter of pipework 100mm
+
+Beds & Surrounds
+
+ANCILLARIES TO BRICKWORK AND BLOCKWORK
+
+average depth 0.5 - 1.0m
+
+Excavating Trenches
+
+Walls
+
+325mm thick in trenches
+
+Excavating trenches to receive pipes; pipe
+not exceeding 250mm nominal diameter;
+grading bottoms; trench side supports;
+backfilling
+with
+clause
+804
+stone
+material;
+compacting
+in
+layers
+not
+exceeding
+225mm
+thick;
+disposal
+of
+excavated material off site
+
+Solid concrete blocks; I.S.20; size 440 x
+215 x 100mm; compressive strength 5N/mm2;
+stretcher bond; in cement lime and sand
+mortar (1:1:6) type III as Engineers
+specification; pointing details to be
+agreed with architect onsite following
+sample details
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+BELOW GROUND
+
+650.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+65.00
+
+Rate
+
+BLOCKWORK
+
+m2
+
+Unit
+
+DRAINAGE
+
+10
+
+Qty
+
+BRICKWORK AND BLOCKWORK: BLOCKWORK
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+1
+
+5
+
+5
+
+5
+
+5
+
+Qty
+
+7.00
+
+4.00
+
+12.58
+
+12.58
+
+192.80
+
+7.00
+
+20.00
+
+62.90
+
+62.90
+
+40.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+8.00
+
+Rate
+
+To Collection €
+
+nr
+
+m
+
+m
+
+m
+
+m
+
+Unit
+
+Description
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+To existing foundations
+
+Tieing in
+
+BQ/45
+
+Ducts;
+through
+thick
+new
+325mm
+blockwork rising wall girth < or =
+1.00m; rectangular
+
+Forming holes for
+
+2
+
+85.00
+
+To Collection €
+
+nr
+
+230.00
+
+170.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+200mm wide
+
+Forming cavities
+
+BQ/46
+
+Forming
+cavities
+between
+new
+walls;
+stainless steel vertical twist fishtail
+wall ties to I.S. 268; building into 100mm
+blockwork/brickwork
+external
+leaf
+and
+100mm blockwork internal leaf; integral
+insulation
+retaining
+clip;
+Full-fill
+Eco-bead platinum insulation; Ancon Teplo
+Tie "Basalt Fibre" wall tiesfixing at
+maximium 750mm centres horizontally and
+450mm staggered centres vertically
+
+ANCILLARIES TO BRICKWORK/BLOCKWORK
+
+100mm thick; in skins of cavity walls
+
+Walls
+
+Solid concrete blocks; I.S.20; size 440 x
+215 x 100mm; compressive strength 5N/mm2;
+stretcher bond; in cement lime and sand
+mortar (1:1:6) type III as Engineers
+specification; pointing details to be
+agreed with architect onsite following
+sample details
+
+BLOCKWORK
+
+BRICKWORK AND BLOCKWORK
+
+325 x 150mm
+
+Cills
+
+100mm wide x 65mm thick
+
+Lintels
+
+Spanlite lintel; bedding in gauged mortar;
+minimum bearing 200mm both sides
+
+Forming / cutting holes to include all
+necessary
+building
+in
+of
+prestressed
+concrete lintols and making good in all
+trades
+
+(21) EXTERNAL WALLS
+
+E.D. Estimating
+
+PRECAST CONCRETE
+
+60.00
+
+Amount
+
+(19) SUBSTRUCTURE
+
+60.00
+
+Rate
+
+SUNDRIES AND BUILDERS WORK
+
+nr
+
+Unit
+
+CONCRETE WORK
+
+1
+
+Qty
+
+MECHANICAL INSTALLATIONS
+
+(19) SUBSTRUCTURE (Cont)
+
+E.D. Estimating
+
+20
+
+40
+
+2
+
+3
+
+Qty
+
+28.68
+
+23.00
+
+30.00
+
+13.00
+
+1,592.60
+
+573.60
+
+920.00
+
+60.00
+
+39.00
+
+Amount
+
+(21) EXTERNAL WALLS
+Rate
+
+To Collection €
+
+m2
+
+m2
+
+m
+
+m
+
+Unit
+
+Description
+
+level;
+
+girth
+
+not
+
+exceeding
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/47
+
+Ventilation through external walls
+
+SUNDRIES
+
+wallplate
+225mm
+
+2
+
+15
+
+8
+
+lintol level; girth 450mm
+
+dressing
+2
+
+jambs;
+
+cavity tray; girth 450mm;
+under and behind cills
+
+window
+8
+
+and
+
+vertical; to door
+girth 225 - 450mm
+
+Damp proof courses
+
+"Hyload" or equivalent DPC to B.S. 7431
+black
+polythene
+2000
+gauge;
+to
+be
+installed
+in
+accordance
+with
+B.S.
+8215:1991 CP; 150mm laps; welded in
+accordance with maunfacturers instruction
+bedding in cement, lime and sand mortar
+
+200mm wide
+
+15
+
+2.00
+
+2.00
+
+5.00
+
+2.00
+
+14.00
+
+To Collection €
+
+nr
+
+m
+
+m
+
+m
+
+m
+
+m
+
+393.20
+
+EXCL
+
+30.00
+
+16.00
+
+10.00
+
+16.00
+
+210.00
+
+111.20
+
+Description
+
+2450mm high
+
+Partitions
+
+44 x 100mm timber studs grade C16 at 400mm
+centres; faced both side with single layer
+12.5mm Standard plasterboard; 3mm skim
+both sides; Rockwool insulation between
+joists 100mm thick
+
+STUD PARTITIONS
+
+FLOOR, WALL AND CEILING FINISHES
+
+(22) INTERNAL WALLS
+
+E.D. Estimating
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+extra over for
+abutments,
+T-junctions, fair ends, etc
+
+BQ/48
+
+angles,
+
+extra over for moisture resistant board
+
+13.90
+
+Amount
+
+(21) EXTERNAL WALLS
+Rate
+
+Closing cavities
+
+m
+
+Unit
+
+extra over for door opes
+
+8
+
+Qty
+
+Closing cavities at top of with slate /
+block on flat
+
+200mm wide
+
+Closing cavities
+
+Closing cavities at ends with insulated
+proprietary closers; Xtratherm Close-R;
+additional wall ties at 225mm vertical
+centres; including 25mm thick expanded
+polystyrene fixed vertically
+
+(Cont) BRICKWORK AND BLOCKWORK
+(Cont) ANCILLARIES TO BRICKWORK/BLOCKWORK
+
+(21) EXTERNAL WALLS (Cont)
+
+E.D. Estimating
+
+1
+
+29
+
+2
+
+12
+
+Qty
+
+50.00
+
+3.00
+
+40.00
+
+169.81
+
+2,254.72
+
+50.00
+
+87.00
+
+80.00
+
+2,037.72
+
+Amount
+
+(22) INTERNAL WALLS
+Rate
+
+To Collection €
+
+item
+
+m2
+
+nr
+
+m
+
+Unit
+
+(27) ROOFS
+
+E.D. Estimating
+(28) FRAME
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Miscellaneous plates and fixings
+
+Sundries
+
+Wall plate straps
+
+BQ/49
+
+Strap;
+approved
+standard
+Lshaped
+pattern; 30 x 5 x 1000mm long flat
+section; fixed at a maximum of 1200mm
+centres; once bent; nailed to wallplate,
+plugged and screwed to blockwork/concrete
+backgrounds
+
+250mm thick
+
+Insulation; thermal
+
+Rockwool or similar; 2nr. layers of 150 +
+100mm thick laid perpindicular; 1st layer
+fitted between joists; second layer fitted
+over joists
+
+IRONMONGERY, ASSESSORIES AND SUNDRIES
+
+44 x 225mm in bridging
+
+44 x 225mm in ceiling joists at 400mm
+centres
+
+44 x 225mm in ridge boards
+
+50 x 175mm in rafters at 400mm centres
+
+75 x 100mm in wall plate
+
+Carcassing; main roof
+
+White deal, Grade C16; sawn; pressure
+impregnated
+with
+preservative;
+in
+accordance with the specification
+
+1
+
+16
+
+28
+
+34
+
+100
+
+17
+
+135
+
+150.00
+
+5.50
+
+14.00
+
+10.19
+
+8.69
+
+12.00
+
+8.21
+
+To Collection €
+
+item
+
+nr
+
+m2
+
+m
+
+m
+
+m
+
+m
+
+3,357.81
+
+150.00
+
+88.00
+
+392.00
+
+346.46
+
+869.00
+
+204.00
+
+1,108.35
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+25kg/m
+50kg/m
+(provisional)
+
+UC / UB / SHS
+member
+
+BQ/50
+
+profile
+
+Structural steelwork; in accordance with
+Structural Engineers Specification notes
+and
+Structural
+Engineers
+drawings;
+including all necessary fixings,welding,
+bolting
+and
+drilling;
+including
+all
+necessary corrosion protection; all in
+accordance with the Engineers Drawings and
+Specification
+
+FABRICATED MEMBERS
+
+STRUCTURAL STEELWORK
+
+215 x 215 x 440mm
+
+Bearing pads
+
+Reinforced in-situ concrete; Grade C30N
+/37U.N.O. to BS8110; vibrated; as per
+Engineer's
+specification;
+formwork
+as
+required
+
+200.00
+
+Amount
+
+STRUCTURAL AND FIRST FIXINGS
+
+12.50
+
+Rate
+
+IN-SITU CONCRETE
+
+m
+
+Unit
+
+WOODWORK
+
+16
+
+Qty
+
+CONCRETE WORK
+
+(27) ROOFS
+
+Description
+
+PITCHED ROOF
+
+E.D. Estimating
+
+1
+
+4
+
+Qty
+
+2750.00
+
+65.00
+
+Rate
+
+To Collection €
+
+tonne
+
+nr
+
+Unit
+
+(28) FRAME
+
+3,010.00
+
+2,750.00
+
+260.00
+
+Amount
+
+Description
+
+32mm
+
+thick
+
+window
+
+board
+
+with
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Window boards
+
+BQ/51
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+175mm deep
+
+Softwood;
+moulding
+
+BOARDING AND SECOND FIXINGS
+
+WOODWORK
+
+Supplied and fitted
+
+Airtightness
+
+Isocell Airstop Flex airtight membranes;
+fixed to all junctions of cill, head and
+reveals
+
+7
+
+2
+
+1
+
+7.00
+
+16.00
+
+150.00
+
+8000.00
+
+To Collection €
+
+m
+
+m
+
+item
+
+item
+
+Special attendances
+
+%
+item
+
+0.1
+
+General attendances
+
+Overheads and profit
+
+Supplied and fitted (new extension only)
+
+Windows and doors
+
+9,031.00
+
+49.00
+
+32.00
+
+150.00
+
+INCL
+
+INCL
+
+800.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Second fixings
+
+BQ/52
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+single; 900 x 2100mm
+
+Doors
+
+Four-panel single door; allow a PC Sum of
+€125 for supply of door; allow a PC Sum of
+€25 for ironmongery; pre-finished
+
+COMPOSITE ITEMS
+
+75 x 16mm
+
+Architraves
+
+MDF; square edge profile; fixed to foor
+frame
+
+BOARDING AND SECOND FIXINGS
+
+100 x 50mm
+
+Door frames
+
+White deal, Grade C16; sawn; pressure
+impregnated
+with
+preservative;
+in
+accordance with the specification
+
+Allow a PC Sum of €8,000 for the supply
+and fit of external windows and doors
+
+8,000.00
+
+Description
+(32) INTERNAL WALL COMPLETIONS
+
+E.D. Estimating
+
+STRUCTURAL AND FIRST FIXINGS
+
+8000.00
+
+Amount
+
+DOUBLE GLAZED JOINERY
+
+Sum
+
+Rate
+
+(31) EXTERNAL WALL COMPLETIONS
+Unit
+
+WOODWORK
+
+1
+
+Qty
+
+EXTERNAL WINDOWS AND DOORS
+
+(31) EXTERNAL WALL COMPLETIONS
+
+E.D. Estimating
+
+32
+
+2
+
+21
+
+11
+
+Qty
+
+5.00
+
+235.00
+
+9.00
+
+8.00
+
+To Collection €
+
+m
+
+nr
+
+m
+
+m
+
+Rate
+
+907.00
+
+160.00
+
+470.00
+
+189.00
+
+88.00
+
+Amount
+
+(32) INTERNAL WALL COMPLETIONS
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+MK06; 780 x 1180mm
+
+Rooflights
+
+BQ/53
+
+To Collection €
+
+2,250.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Plinth
+
+not exceeding 300mm wide
+
+Reveals
+
+exceeding 300mm wide
+
+Walls
+
+BQ/54
+
+Prepare;
+Dulux
+or
+other
+equal
+and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+
+PAINTING
+
+PAINTING AND DECORATING
+
+not exceeding 300mm wide
+
+Plinth
+
+not exceeding 300mm wide
+
+Reveals
+
+exceeding 300mm wide
+
+Walls
+
+Sand and cement finish; 25mm thick cement
+and sand render in three number coats;
+cement
+and
+sand
+1:3;
+scud
+coat
+in
+containing approved bonding agent applied
+in
+accordance
+with
+manufacturers
+instructions; two coat cement sand lime
+1:1:6; including approved waterproofer; to
+blockwork wall; externally
+
+Velux GGL 3050; centre-pivot; pine; double
+glazed; flashing kits and collars
+
+2,250.00
+
+Description
+(41) EXTERNAL WALL FINISHES
+
+E.D. Estimating
+
+INSITU FINISHES
+
+750.00
+
+Amount
+
+(37) ROOF COMPLETIONS
+Rate
+
+COMPOSITE ITEM
+
+nr
+
+Unit
+
+FLOOR, WALL AND CEILING FINISHINGS
+
+3
+
+Qty
+
+WOODWORK
+
+(37) ROOF COMPLETIONS
+
+E.D. Estimating
+
+57
+
+109
+
+203
+
+17
+
+16
+
+20
+
+Qty
+
+6.00
+
+5.00
+
+10.00
+
+16.00
+
+14.00
+
+28.00
+
+Rate
+
+3,973.00
+
+342.00
+
+545.00
+
+2,030.00
+
+272.00
+
+224.00
+
+560.00
+
+Amount
+
+(41) EXTERNAL WALL FINISHES
+
+To Collection €
+
+m
+
+m
+
+m2
+
+m
+
+m
+
+m2
+
+Unit
+
+Description
+
+330.00
+
+Amount
+
+Description
+(42) INTERNAL WALL FINISHES (Cont)
+
+E.D. Estimating
+
+BQ/55
+
+16
+
+not exceeding 300mm wide
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+65
+
+8
+
+16
+
+exceeding 300mm wide
+
+Walls
+
+Prepare;
+Dulux
+or
+other
+equal
+and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+
+PAINTING
+
+PAINTING AND DECORATING
+
+exceeding 300mm wide
+
+Wall tiles
+
+Allow a PC Sum of €25/m2 for the supply of
+tiles, adhesive and grout; contractor to
+allow for all labour and trims
+
+TILE, SLAB AND MOSAIC FINISHES
+
+not exceeding 300 wide
+
+Reveals
+
+exceeding 300mm wide (internal face of
+external walls)
+
+Walls
+
+In-situ finishes; sand and cement finish;
+12.5mm thick cement and sand render in two
+number coats; scud coat in cement and sand
+1:3; containing approved bonding agent
+applied in accordance with manufacturers
+instructions; one coat cement sand lime
+1:1:6; including approved waterproofer; to
+blockwork base
+
+3.75
+
+6.00
+
+60.25
+
+7.00
+
+To Collection €
+
+m
+
+m2
+
+m2
+
+m
+
+1,374.00
+
+60.00
+
+390.00
+
+482.00
+
+112.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/56
+
+Acrylic splashback to kitchen; supplied
+and fitted
+
+SUNDRIES
+
+16.50
+
+Rate
+
+(42) INTERNAL WALL FINISHES
+
+INSITU FINISHES
+
+m2
+
+Unit
+
+(Cont) PAINTING AND DECORATING
+
+20
+
+Qty
+
+FLOOR, WALL AND CEILING FINISHES
+
+(42) INTERNAL WALL FINISHES
+
+E.D. Estimating
+
+1
+
+Qty
+
+250.00
+
+Rate
+
+250.00
+
+250.00
+
+Amount
+
+(42) INTERNAL WALL FINISHES
+
+To Collection €
+
+item
+
+Unit
+
+Description
+
+moulded
+
+profile;
+
+plugged
+
+and
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+not exceeding 300mm wide
+
+Skirtings
+
+BQ/57
+
+Priming; two undercoats and finishing coats
+
+PAINTING
+
+PAINTING AND DECORATING
+
+exceeding 300mm wide
+
+Floor tiles
+
+Allow a PC Sum of €40/m2 for the supply of
+tiles, adhesive and grout; contractor to
+allow for all labour and trims
+
+TILE, SLAB AND MOSAIC FINISHES
+
+FLOOR, WALL AND CEILING FINISHES
+
+25 x 125mm high
+
+Second fixings
+
+Pine/MDF;
+screwed
+
+exceeding 300mm wide
+
+Floors
+
+20
+
+15
+
+20
+
+5.00
+
+78.40
+
+11.00
+
+To Collection €
+
+m
+
+m2
+
+m
+
+2,842.40
+
+100.00
+
+1,176.00
+
+220.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+exceeding 300mm wide
+
+Ceilings
+
+BQ/58
+
+Prepare;
+Dulux
+or
+other
+equal
+and
+approved; apply one coat sealer, two
+undercoats and one coat silk emulsion
+finishing coat; selected colour; all in
+accordance with manufacturers instructions
+and Architects specification
+
+PAINTING
+
+PAINTING AND DECORATING
+
+exceeding 300mm wide
+
+Ceilings
+
+Plaster; to plasterboard base; skim coat
+of Gypweld bonding plaster; 3mm thick;
+single coat; trowelled
+
+IN-SITU FINISHES
+
+extra over for providing one layer of
+Pro-Clima Intello Plus airtightness
+membrane to all ceilings; include for
+all necessary seals
+
+exceeding 300mm wide; horizontal (GF)
+
+Ceilings
+
+Standard 12.5mm thick plasterboard and
+insulation; butt joints; tape and fill
+joints; fixing to timber grounds
+
+Allow a PC Sum of €40/m2 for the supply of
+engineered timber flooring; contractor to
+fit and provide underlay and glue where
+required
+
+1,346.40
+
+Description
+(45) CEILING FINISHES
+
+E.D. Estimating
+
+BOARD FINSHES
+
+61.20
+
+Amount
+
+(43) FLOOR FINISHES
+Rate
+
+BOARDING AND SECOND FIXINGS
+
+m2
+
+Unit
+
+FLOOR, WALL AND CEILING FINISHINGS
+
+22
+
+Qty
+
+WOODWORK
+
+(43) FLOOR FINISHES
+
+E.D. Estimating
+
+30
+
+30
+
+30
+
+30
+
+Qty
+
+6.00
+
+9.50
+
+6.00
+
+9.50
+
+930.00
+
+180.00
+
+285.00
+
+180.00
+
+285.00
+
+Amount
+
+(45) CEILING FINISHES
+Rate
+
+To Collection €
+
+m2
+
+m2
+
+m2
+
+m2
+
+Unit
+
+45
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Soakers and trays to chimneys
+
+300 - 450mm wide; valleys
+
+Flashings
+
+Leadwork; code 5
+
+ridge cappings
+
+Ridges/Hips
+
+Lagan Elite range
+
+sloping; not exceeding
+exceeding 300mm wide
+
+Coverings
+
+BQ/59
+
+degrees;
+
+Quinn Western roof tiles 420 x 334mm;
+100mm laps; colour to be selected by
+architect; nailing each tile with 2 nr 35
+x 3.35mmm copper nails; 44 x 34 sawn
+softwood battens at 400mm centres, fixing
+using 65mm galvanised wire nails at 180mm
+centres; Tegral "Tyvek" Supro underlay
+laid directly over rafters, minimum 150mm
+laps; all in accordance with manufacturers
+
+SLATE AND TILE COVERINGS
+
+1
+
+12
+
+17
+
+54
+
+16
+
+extra over for
+Glidevale
+RV
+rafter
+ventilators at appropriate centres
+
+ROOFING CLADDING AND WATERPROOFING
+
+16
+
+16
+
+Qty
+
+not exceeding 300mm wide
+
+Soffit
+
+not exceeding 300mm wide
+
+Fascia
+
+uPVC; white; fixed to and including 19mm
+WBP plywood fixed to rafters
+
+BOARDING AND SECOND FIXINGS
+
+WOODWORK
+
+PITCHED ROOF
+
+Description
+
+(47) ROOF FINISHES
+
+E.D. Estimating
+
+50.00
+
+29.85
+
+46.00
+
+5.00
+
+18.77
+
+4,272.09
+
+EXCL
+
+600.00
+
+507.45
+
+2,484.00
+
+80.00
+
+300.32
+
+300.32
+
+Amount
+
+(47) ROOF FINISHES
+
+18.77
+
+Rate
+
+To Collection €
+
+item
+
+m
+
+m
+
+m2
+
+m
+
+m
+
+m
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/60
+
+(Cont) ROOFING CLADDING AND WATERPROOFING
+(Cont) SLATE AND TILE COVERINGS
+(Cont) Leadwork; code 5
+(Cont) Flashings
+
+(47) ROOF FINISHES (Cont)
+
+E.D. Estimating
+Qty
+
+Rate
+
+Amount
+
+NIL
+
+(47) ROOF FINISHES
+
+To Collection €
+
+Unit
+
+Description
+
+18.00
+
+288.00
+
+Amount
+
+Description
+(59) MECHANICAL INSTALLATION
+
+E.D. Estimating
+
+1
+
+shoe
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/61
+
+Allow a provisional sum of €1250 for
+below ground draiange
+
+DISPOSAL BELOW GROUND
+
+FOUL WATER DRAINAGE
+
+Allow a provisional sum of €1250 for
+below ground draiange
+
+1
+
+1
+
+1
+
+off sets
+
+DISPOSAL BELOW GROUND
+
+3
+
+75mm round with fixings
+
+Downpipes
+
+3
+
+90 degree angles
+
+running
+2
+
+in
+
+75mm outlets
+
+125mm diameter;
+half round
+
+Gutters
+
+uPVC white rainwater goods
+
+1250.00
+
+1250.00
+
+10.00
+
+15.00
+
+18.00
+
+10.00
+
+15.00
+
+To Collection €
+
+Sum
+
+Sum
+
+nr
+
+nr
+
+m
+
+nr
+
+nr
+
+2,927.00
+
+1,250.00
+
+1,250.00
+
+10.00
+
+15.00
+
+54.00
+
+30.00
+
+30.00
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/62
+
+Builders work in association with the
+mechanical installation
+
+BUILDERS WORK
+
+200.00
+
+6000.00
+
+6000.00
+
+To Collection €
+
+Item
+
+Item
+
+%
+
+Sum
+
+general and special attendances
+
+1
+
+0.1
+
+1
+
+Rate
+
+6,800.00
+
+200.00
+
+INCL
+
+INCL
+
+600.00
+
+6,000.00
+
+Amount
+
+(59) MECHANICAL INSTALLATION
+Unit
+
+item
+
+the
+
+Qty
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+profit
+
+Allow a PC Sum of €6,000 for
+mechanical installation complete
+
+PC SUM
+
+m
+
+Rate
+
+DISPOSAL ABOVE GROUND
+
+16
+
+Unit
+
+(52) DRAINAGE AND REFUSE DISPOSAL
+
+MECHANICAL INSTALLATION
+
+lengths;
+
+Qty
+
+SURFACE WATER DRAINAGE
+
+(52) DRAINAGE AND REFUSE DISPOSAL
+
+E.D. Estimating
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/63
+
+Builders work in association with the
+electrical installation
+
+BUILDERS WORK
+
+1
+
+4000.00
+
+150.00
+
+4000.00
+
+To Collection €
+
+Item
+
+Item
+
+general and special attendances
+
+%
+
+item
+
+0.1
+
+profit
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+Allow a PC Sum of €4,000 for
+electrical installation complete
+4,000.00
+
+4,550.00
+
+150.00
+
+400.00
+
+Description
+(79) BUILDING FITTINGS
+
+E.D. Estimating
+
+5000.00
+
+5000.00
+
+1500.00
+
+1500.00
+
+5000.00
+
+5000.00
+
+12,650.00
+
+EXCL
+
+EXCL
+
+EXCL
+
+500.00
+
+5,000.00
+
+150.00
+
+1,500.00
+
+500.00
+
+5,000.00
+
+Amount
+
+(79) BUILDING FITTINGS
+Rate
+
+To Collection €
+
+item
+
+Curtains/Curtain Rails
+
+BQ/64
+
+item
+
+Furniture and loose fittings
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+item
+
+White goods
+
+Sundries
+
+Item
+
+general and special attendances
+
+%
+
+item
+
+0.1
+
+profit
+
+Sum
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+three thousand euro
+
+Stove and fire surround
+
+Item
+
+general and special attendances
+
+%
+
+item
+
+0.1
+
+profit
+
+Sum
+
+Item
+
+item
+
+%
+
+Sum
+
+Unit
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+1
+
+0.1
+
+1
+
+Qty
+
+two thousand euro
+
+Utility Joinery
+
+general and special attendances
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+profit
+
+seven thousand euro
+
+Kitchen Joinery
+
+Provide the following Prime Cost Sum for
+works to be carried out by a Nominated
+Sub-Contractor; Supply & Fit
+
+PC SUMS
+
+Sum
+
+Amount
+
+PC SUM
+
+the
+
+Rate
+
+(69) ELECTRICAL INSTALLATION
+Unit
+
+BUILDING FITTINGS
+
+Qty
+
+ELECTRICAL INSTALLATION
+
+(69) ELECTRICAL INSTALLATION
+
+E.D. Estimating
+
+Description
+
+other
+
+BQ/65
+
+1500.00
+
+1500.00
+
+EXCL
+
+1,650.00
+
+150.00
+
+1,500.00
+
+Amount
+
+(79) BUILDING FITTINGS
+Rate
+
+To Collection €
+
+Item
+
+general and special attendances
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+item
+
+%
+
+Sum
+
+item
+
+Unit
+
+other
+charges
+required
+by
+the
+contractor,
+associated
+with
+the
+emplyoment of nominated subcontractor
+
+0.1
+
+in
+
+profit
+
+included
+
+1
+
+(fitting
+
+Qty
+
+one thousand five hundred euro
+
+Sanitary ware
+
+Supply only
+trades)
+
+Window seats or any other specialist
+joinery
+
+(Cont) BUILDING FITTINGS
+(Cont) PC SUMS
+(Cont) Provide the following Prime Cost
+Sum for works to be carried out by a
+Nominated Sub-Contractor; Supply & Fit
+(Cont) Sundries
+
+(79) BUILDING FITTINGS (Cont)
+
+E.D. Estimating
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/66
+
+Allow a provisional sum of €5,000 for
+external works yet to be detailed
+
+PROVISIONAL SUM
+
+EXTERNAL WORKS
+
+(40) EXTERNAL WORKS
+
+E.D. Estimating
+
+1
+
+Qty
+
+5000.00
+
+5,000.00
+
+5,000.00
+
+Amount
+
+(40) EXTERNAL WORKS
+Rate
+
+To Collection €
+
+Sum
+
+Unit
+
+Description
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Amount from summary level.
+
+Subtotal Excl. VAT - Extension
+
+E.D. Estimating
+
+BQ/67
+
+Qty
+
+To Collection €
+
+Rate
+
+NIL
+
+81,356.00
+
+Amount
+
+Subtotal Excl. VAT - Extension
+Unit
+
+BQ/11
+BQ/12
+BQ/14
+BQ/15
+BQ/18
+BQ/19
+BQ/20
+BQ/21
+BQ/22
+BQ/24
+BQ/26
+BQ/27
+BQ/29
+BQ/31
+BQ/32
+BQ/33
+BQ/34
+BQ/36
+BQ/37
+BQ/38
+
+(21) EXTERNAL WALLS
+(22) INTERNAL WALLS
+(23) FLOORS
+(24) STAIRS
+(27) ROOFS
+(28) FRAME
+(31) EXTERNAL WALL COMPLETIONS
+(32) INTERNAL WALL COMPLETIONS
+(37) ROOF COMPLETIONS
+(41) EXTERNAL WALL FINISHES
+(42) INTERNAL WALL FINISHES
+(43) FLOOR FINISHES
+(45) CEILING FINISHES
+(47) ROOF FINISHES
+(52) DRAINAGE AND REFUSE DISPOSAL
+(59) MECHANICAL INSTALLATION
+(69) ELECTRICAL INSTALLATION
+(79) BUILDING FITTINGS
+(40) EXTERNAL WORKS
+Subtotal Excl. VAT - House
+
+(i)
+
+BQ/8
+
+(19) SUBSTRUCTURE
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+BQ/2
+
+(00) DEMOLITION AND ALTERATIONS
+
+Page No.
+
+Qty
+
+BQ/1
+
+SUMMARY
+
+Description
+
+(00) PRELIMINARIES
+
+E.D. Estimating
+Unit
+
+Rate
+
+SUMMARY
+
+282,869.29
+
+7,000.00
+
+33,000.00
+
+10,150.00
+
+27,300.00
+
+10,428.00
+
+13,348.15
+
+5,047.00
+
+14,887.20
+
+9,832.75
+
+12,351.00
+
+4,400.00
+
+6,848.00
+
+28,379.00
+
+4,385.00
+
+11,730.49
+
+9,350.00
+
+6,619.50
+
+7,002.81
+
+20,422.08
+
+19,883.31
+
+8,205.00
+
+12,300.00
+
+Amount
+
+contains
+
+BQ/48
+BQ/49
+BQ/50
+BQ/51
+BQ/52
+BQ/53
+BQ/54
+BQ/56
+BQ/57
+BQ/58
+BQ/60
+BQ/61
+BQ/62
+BQ/63
+BQ/65
+BQ/66
+BQ/67
+
+(22) INTERNAL WALLS
+
+(27) ROOFS
+
+(28) FRAME
+
+(31) EXTERNAL WALL COMPLETIONS
+
+(32) INTERNAL WALL COMPLETIONS
+
+(37) ROOF COMPLETIONS
+
+(41) EXTERNAL WALL FINISHES
+
+(42) INTERNAL WALL FINISHES
+
+(43) FLOOR FINISHES
+
+(45) CEILING FINISHES
+
+(47) ROOF FINISHES
+
+(52) DRAINAGE AND REFUSE DISPOSAL
+
+(59) MECHANICAL INSTALLATION
+
+(69) ELECTRICAL INSTALLATION
+
+(79) BUILDING FITTINGS
+
+(40) EXTERNAL WORKS
+
+Subtotal Excl. VAT - Extension
+
+Clonlea Lodge Rev.1
+Budget Estimate 10.05.16
+Prepared by E.D. Estimating
+
+Note: This Bill of Quantities
+pages numbered BQ/1 - BQ/67.
+
+(ii)
+
+BQ/47
+
+(21) EXTERNAL WALLS
+
+TOTAL AMOUNT TO FORM OF TENDER
+
+BQ/45
+
+(19) SUBSTRUCTURE
+
+Page No.
+
+SUMMARY
+
+BQ/39
+
+Qty
+
+Description
+
+(00) PRELIMINARIES
+
+E.D. Estimating
+Unit
+
+Rate
+
+SUMMARY
+
+364,222.91
+
+81,353.62
+
+5,000.00
+
+14,300.00
+
+4,550.00
+
+6,800.00
+
+2,927.00
+
+4,272.09
+
+930.00
+
+2,842.40
+
+1,624.00
+
+3,973.00
+
+2,250.00
+
+907.00
+
+9,031.00
+
+3,010.00
+
+3,357.81
+
+2,254.72
+
+1,985.80
+
+5,138.80
+
+6,200.00
+
+Amount
+
+
