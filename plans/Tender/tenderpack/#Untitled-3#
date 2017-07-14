@@ -1,0 +1,21 @@
+func doTap(atX: Int, atY: Int) ->[Any]!
+	    {
+	        var error:NSError?
+
+	        let  tapCmd = SETouchAction()
+	        tapCmd.tapAt(x:atX, y:atY)
+	        driver?.perform(tapCmd, error: &error)
+
+	        print("ERROR : \(error)")
+
+	        if (error?.code == 0)
+	        {
+	           return [true, "Command Execution Successful"]
+	        }
+	        return [false, "Command Execution Failed"]
+	    }
+
+    func scriptCommand(_ deviceId: String!, command: String!,
+     let result = doTap(atX: 200, atY:200)
+     return result
+}
