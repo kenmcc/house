@@ -24,6 +24,7 @@ def dir_contents(path, filesOrFolders="Files"):
 header="""
 \\documentclass[a4paper, titlepage, 12pt]{article}
 \\usepackage{hyperref}
+\\usepackage{ulem}
 \\usepackage{xcolor}
 \\hypersetup{
     colorlinks,
